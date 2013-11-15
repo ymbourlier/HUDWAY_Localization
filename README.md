@@ -17,7 +17,7 @@ To translate the application you should be:
 	SmartGit:
 	- open smart git
 	- select project > Clone
-	- in opened window insert URL to repository [https://github.com/Tilium/HUDWAY_Localization.git] and press continue
+	- in opened window insert URL to repository [https://github.com/RITLLC/HUDWAY_Localization.git] and press continue
 	- press continue again
 	- select local folder for copy repository files on your computer and press continue
 	- set project name(any name title) and press finish
