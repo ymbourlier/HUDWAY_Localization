@@ -1,0 +1,11 @@
+/* 
+  StageDetailsController.strings
+  CityRacer
+
+  Created by Kirill Frolov on 30.01.13.
+
+*/
+
+"StageDetailsController Page_iPhone"  = "Route details";
+
+"back button" = "Back";

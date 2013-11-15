@@ -1,0 +1,11 @@
+/* 
+  NearbyController.strings
+  CityRacer
+
+  Created by Kirill Frolov on 29.01.13.
+
+*/
+"NearbyController Page_iPhone"  = "Explore";
+
+"map options button" = "Options";
+"change location button" = "Search this location";

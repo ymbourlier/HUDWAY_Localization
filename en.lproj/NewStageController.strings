@@ -1,0 +1,11 @@
+"page title"    = "New route";
+
+"can't save stage text"             = "Can't save route with empty name";
+"alert delete title"                = "Delete route?";
+"alert delete message"              = "";
+
+"cancel button"                     = "Cancel";
+"save button"                       = "Add";
+
+"lock alert get address"            = "Get address...";
+"lock alert deleting stage result"  = "Delete data...";

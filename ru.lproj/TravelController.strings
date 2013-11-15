@@ -1,0 +1,27 @@
+"finish stage win alert title"          = "Поздравляем!";
+"finish stage not win alert title"      = "Сожалеем";
+"finish stage win message format"       = "%@ это Ваше лучшее время";
+"finish stage not win message format"   = "Ваше время больше на %@";
+
+"finish geo track alert title"          = "Информация";
+"finish geo track alert message"        = "Вы прибыли в точку назначения";
+
+"start text"                            = "СТАРТ!";
+
+"brightnes label"                       = "Яркость";
+"perspective label"                     = "Опережение %@";
+
+"cancel button"                         = "Отмена";
+"skip button"                           = "Пропустить";
+
+"insert into route description"         = "Войдите на маршрут\nдля старта";
+"go back to route description"          = "Вы ушли с маршрута!";
+"recalculate route description"         = "Расчитываю новый маршрут...";
+
+"close alert title"                     = "Выберите действие";
+"cancel button"                         = "Отмена";
+"save button"                           = "Сохранить";
+"don't save button"                     = "Удалить";
+
+"lock alert deleting stage result"      = "Удаление данных...";
+"lock alert deleted stage result"       = "Готово!";

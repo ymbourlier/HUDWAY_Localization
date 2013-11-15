@@ -1,0 +1,17 @@
+"hours short" = "ч.";
+"minutes short" = "мин.";
+"seconds short" = "сек.";
+"day hour delimiter" = "в";
+
+"mounth 1 short" = "янв.";
+"mounth 2 short" = "фев.";
+"mounth 3 short" = "мар.";
+"mounth 4 short" = "апр.";
+"mounth 5 short" = "мая";
+"mounth 6 short" = "июня";
+"mounth 7 short" = "июля";
+"mounth 8 short" = "авг.";
+"mounth 9 short" = "сент.";
+"mounth 10 short" = "окт.";
+"mounth 11 short" = "нояб.";
+"mounth 12 short" = "дек.";

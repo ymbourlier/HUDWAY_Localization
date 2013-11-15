@@ -1,0 +1,17 @@
+"title"                             = "路线记录";
+"time title"                        = "时间";
+"speed title"                       = "速度";
+"distance title"                    = "距离";
+
+"alert delete title"                = "是否删除？";
+"alert delete message"              = "取消将会删除所有关于此路线的数据";
+
+"start text"                        = "出发！";
+
+"finish button"                     = "到达！";
+"cancel button"                     = "取消";
+
+"skip button"                       = "跳过";
+
+"lock alert deleting stage result"  = "正在删除...";
+"lock alert deleted stage result"   = "完成！";

@@ -1,0 +1,29 @@
+/* 
+  Social.strings
+  HudWay
+
+  Created by Kirill Frolov on 27.09.13.
+
+*/
+
+"error #330 message" = "Этот результат уже опубликован";
+"error #332 message" = "Для этого действия, необходимо чтобы результат был отправлен на hudwayapp.com";
+"error #333 message" = "Не удалось отправить email, попробуйте снова";
+
+"action SocialActionPublishStageResult description" = "Публикация маршрута...";
+
+"mail html message format" ="<p>Я безопасно проехал с приложением HUDWAY</p><p>Название: %@</p><p>Время: %@</p><p>Средняя скорость: %@</p><p>Макс. скорость: %@</p><p>%@: %@</p><p><a href='%@'>Посмотреть подробнее</a></p>";
+"mail subject" = "какой-то заголовок";
+"0-60mi" = "0-60 миль/ч";
+"0-100km" = "0-100 км/ч";
+"sec" = "сек.";
+
+"empty user name" = "Неизвестно";
+
+"error alert title" = "Ошибка";
+"need login alert title" = "Необходима авторизация";
+"need login alert message" = "Для этого действия необходимо авторизоваться";
+
+"ok button" = "OK";
+"cancel button" = "Отмена";
+"login button" = "Войти";

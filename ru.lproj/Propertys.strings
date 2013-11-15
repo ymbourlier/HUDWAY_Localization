@@ -1,0 +1,123 @@
+"SurfaceType0" = "Гравий";
+"SurfaceType1" = "Асфальт";
+"SurfaceType2" = "Лед";
+"SurfaceType3" = "Лес";
+"SurfaceType4" = "Вода";
+"SurfaceType5" = "Воздух";
+
+"VehicleType0" = "Автомобиль";
+"VehicleType1" = "Мотоцикл";
+"VehicleType2" = "Велосипед";
+"VehicleType3" = "Бег/Пешком";
+"VehicleType4" = "Самолет";
+"VehicleType5" = "Вертолет";
+"VehicleType6" = "Судно";
+
+"SpeedUnit0" = "Километры";
+"SpeedUnit1" = "Мили и ярды";
+"SpeedUnit2" = "Мили и футы";
+
+"Countdown0" = "0 секунд";
+"Countdown1" = "3 секунды";
+"Countdown2" = "5 секунд";
+"Countdown3" = "10 секунд";
+"Countdown4" = "15 секунд";
+"Countdown5" = "30 секунд";
+"Countdown6" = "1 минута";
+"Countdown7" = "2 минуты";
+"Countdown8" = "3 минуты";
+"Countdown9" = "5 минут";
+
+"PublishType0" = "Не опубликован";
+"PublishType1" = "Опубликован";
+
+"UserLoginType0"        = "Не известно";
+"UserLoginTypeFacebook" = "Facebook";
+"UserLoginTypeTwitter"  = "Twitter";
+"UserLoginTypeGidme"    = "HudWayApp.com";
+
+"AutoLock0" = "Системные настройки";
+"AutoLock1" = "Отключена при проезде";
+"AutoLock2" = "Отключена";
+
+"MapService0" = "Google";
+"MapService1" = "Apple + Open Street Map";
+
+//-------------------------------
+"propertyTitleSettingsPropTypeCurrentUserName"      = "Мой профиль";
+"propertyTitleSettingsPropTypeSpeedUnits"           = "Ед. измерения";
+"propertyTitleSettingsPropTypeCountdown"            = "Обратный отсчёт";
+"propertyTitleSettingsPropTypeAutoLock"             = "Автоблокировка";
+"propertyTitleSettingsPropTypeMapService"           = "Карты и маршрутизация";
+
+"propertyPlaceholderSettingsPropTypeCurrentUserName"= "";
+
+//-------------------------------
+"propertyTitleUserPropTypeName"                 = "Пользователь";
+"propertyTitleUserPropTypeCreatedStages"        = "Создано маршрутов";
+"propertyTitleUserPropTypeCreatedStagesResults" = "Записано проездов";
+"propertyTitleUserPropTypeUsedLoginType"        = "Вход через";
+"propertyTitleUserPropTypeEmail"                = "";
+"propertyTitleUserPropTypePassword"             = "";
+"propertyTitleUserPropTypeConfirmPassword"      = "";
+
+"propertyPlaceholderUserPropTypeName"           = "Нажмите для ввода имени";
+"propertyPlaceholderUserPropTypeEmail"          = "E-mail";
+"propertyPlaceholderUserPropTypePassword"       = "Пароль";
+
+"propertyKetboardPlaceholderUserPropTypeName"       = "Введите имя";
+"propertyKetboardPlaceholderUserPropTypeEmail"      = "Введите e-mail";
+"propertyKetboardPlaceholderUserPropTypePassword"   = "Введите пароль";
+
+//-------------------------------
+"propertyTitleSpecialSectorPropTypeName"            = "Название";
+"propertyTitleSpecialSectorPropTypeDescription"     = "Описание";
+"propertyTitleSpecialSectorPropTypeDistance"        = "Расстояние";
+"propertyTitleSpecialSectorPropTypeTime"            = "Время";
+"propertyTitleSpecialSectorPropTypeStartDateTime"   = "Старт";
+"propertyTitleSpecialSectorPropTypeSurfaceType"     = "Покрытие";
+"propertyTitleSpecialSectorPropTypeStartLat"        = "";
+"propertyTitleSpecialSectorPropTypeStartLon"        = "";
+"propertyTitleSpecialSectorPropTypeTracksCount"     = "";
+"propertyTitleSpecialSectorPropTypeUserAuthorName"  = "Автор";
+"propertyTitleSpecialSectorPropTypeUserWinnerName"  = "Победитель";
+
+"propertyPlaceholderSpecialSectorPropTypeName"          = "Нажмите для ввода имени";
+"propertyPlaceholderSpecialSectorPropTypeDescription"   = "Описание";
+"propertyPlaceholderSpecialSectorPropTypeDistance"      = "";
+"propertyPlaceholderSpecialSectorPropTypeTime"          = "";
+"propertyPlaceholderSpecialSectorPropTypeStartDateTime" = "";
+"propertyPlaceholderSpecialSectorPropTypeSurfaceType"   = "";
+"propertyPlaceholderSpecialSectorPropTypeStartLat"      = "";
+"propertyPlaceholderSpecialSectorPropTypeStartLon"      = "";
+"propertyPlaceholderSpecialSectorPropTypeTracksCount"   = "";
+
+"propertyKetboardPlaceholderSpecialSectorPropTypeName"          = "Введите имя";
+"propertyKetboardPlaceholderSpecialSectorPropTypeDescription"   = "Введите описание";
+"propertyKetboardPlaceholderSpecialSectorPropTypeDistance"      = "";
+"propertyKetboardPlaceholderSpecialSectorPropTypeTime"          = "";
+"propertyKetboardPlaceholderSpecialSectorPropTypeStartDateTime" = "";
+"propertyKetboardPlaceholderSpecialSectorPropTypeSurfaceType"   = "";
+"propertyKetboardPlaceholderSpecialSectorPropTypeStartLat"      = "";
+"propertyKetboardPlaceholderSpecialSectorPropTypeStartLon"      = "";
+"propertyKetboardPlaceholderSpecialSectorPropTypeTracksCount"   = "";
+
+//-------------------------------
+"propertyTitleTrackPropTypeName"                    = "";
+"propertyTitleTrackPropTypeDate"                    = "Дата";
+"propertyTitleTrackPropTypeTime"                    = "Время";
+"propertyTitleTrackPropTypeDistance"                = "Расстояние";
+"propertyTitleTrackPropTypeMaxSpeed"                = "Макс. скорость";
+"propertyTitleTrackPropTypeAverageSpeed"            = "Средняя скорость";
+"propertyTitleTrackPropTypeVehicleType"             = "Транспорт";
+"propertyTitleTrackPropTypeDescription"             = "Описание";
+"propertyTitleTrackPropTypeUserAuthorName"          = "Автор";
+"propertyTitleTrackPropTypePublishStatus"           = "Статус";
+"propertyTitleTrackPropTypeAccelerationTo100KmH"    = "0-100 км/ч";
+"propertyTitleTrackPropTypeAccelerationTo60MPH"     = "0-60 mph";
+
+"propertyPlaceholderTrackPropTypeName"          = "Нажмите для ввода имени";
+"propertyPlaceholderTrackPropTypeDescription"   = "Описание";
+
+"propertyKetboardPlaceholderTrackPropTypeName"          = "Введите имя";
+"propertyKetboardPlaceholderTrackPropTypeDescription"   = "Введите описание";

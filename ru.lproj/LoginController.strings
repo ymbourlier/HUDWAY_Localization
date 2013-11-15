@@ -1,0 +1,16 @@
+"top label text"                = "Войдите в профиль HUDWAY";
+"registration label"            = "Регистрация";
+"recovery password label"       = "Забыли пароль?";
+
+"login remote service button"   = "Войти в HUDWAY";
+"login facebook button title"   = "Войти через Facebook";
+"login twitter button title"    = "Войти через Twitter";
+"dont login button"             = "Пропустить";
+
+"email placeholder"             = "E-mail";
+"password placeholder"          = "Пароль";
+
+"lock alert enter in remote service" = "Вход...";
+"lock alert enter in facebook"  = "Вход в Facebook...";
+"lock alert enter in twitter"   = "Вход в Twitter...";
+"lock alert success login"      = "Вход выполнен!";

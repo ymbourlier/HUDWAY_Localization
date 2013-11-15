@@ -1,0 +1,17 @@
+"Miles short" = "英里";
+"Yards short" = "码";
+"Foots short" = "英尺";
+"Kilometers short" = "公里";
+"Meters short" = "米";
+"Miles in hour short" = "英里/每小时";
+"Kilometers in hour short" = "公里/每小时";
+
+"in start place label text"         = "您已在出发地";
+"to start label format"             = "%@ 到出发地";
+
+"current location title"            = "实时位置";
+
+"default stage name format"         = "路线 %d";
+
+"start point title" = "出发地";
+"finish point title" = "目的地";

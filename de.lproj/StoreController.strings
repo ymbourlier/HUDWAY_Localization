@@ -1,0 +1,16 @@
+"store title" = "Upgrade Store";
+
+"lock alert get products info" = "Get info from AppStore...";
+"lock alert purchase processing" = "Purchase processing...";
+"lock alert purchase success" = "Success!";
+
+"lock alert save purchases processing" = "Saving purchases...";
+"lock alert success save purchases processing" = "Success!";
+
+"lock alert restore purchases processing" = "Restore purchases...";
+"lock alert success restore purchases processing" = "Success!";
+
+"cancel button" = "Cancel";
+"restore purchases button" = "Restore purchases";
+
+"can't connect to app store label" = "Cannot connect to iTunes Store.\n\nTry again later";

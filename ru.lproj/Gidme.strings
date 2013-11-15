@@ -1,0 +1,13 @@
+/* 
+  Gidme.strings
+  HudWay
+
+  Created by Kirill Frolov on 10.10.13.
+
+*/
+
+"error #401 message" = "Невозможно сейчас войти. Пользователь не найден";
+"error #402 message" = "Невозможно сейчас войти. Неверный email или пароль";
+"error #410 message" = "Невозможно сейчас войти. Пустой email или пароль";
+
+"error #500 message" = "Проблема с Интернет-подключением";

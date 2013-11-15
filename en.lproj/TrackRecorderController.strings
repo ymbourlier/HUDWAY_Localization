@@ -1,0 +1,17 @@
+"title"                             = "Route recording";
+"time title"                        = "Time";
+"speed title"                       = "Speed";
+"distance title"                    = "Distance";
+
+"alert delete title"                = "Delete data?";
+"alert delete message"              = "Cancel will erase all travel data on the route";
+
+"start text"                        = "START!";
+
+"finish button"                     = "Finish!";
+"cancel button"                     = "Cancel";
+
+"skip button"                       = "Skip";
+
+"lock alert deleting stage result"  = "Deleting data...";
+"lock alert deleted stage result"   = "Done!";

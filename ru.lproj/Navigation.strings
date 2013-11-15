@@ -1,0 +1,17 @@
+"Miles short" = "mi";
+"Yards short" = "yd";
+"Foots short" = "ft";
+"Kilometers short" = "км";
+"Meters short" = "м";
+"Miles in hour short" = "mph";
+"Kilometers in hour short" = "км/ч";
+
+"in start place label text"         = "Вы в точке старта";
+"to start label format"             = "До точки старта %@";
+
+"current location title"            = "Текущая геопозиция";
+
+"default stage name format"         = "Маршрут %d";
+
+"start point title" = "Начало";
+"finish point title" = "Конец";

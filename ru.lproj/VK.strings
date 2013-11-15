@@ -1,0 +1,32 @@
+/* 
+  VK.strings
+  HudWay
+
+  Created by Данил on 20.09.13.
+
+*/
+"title0" = "Безопасно";
+"title1" = "Быстро";
+"title2" = "Отлично";
+"title3" = "С ветерком";
+"title4" = "Как в боевом самолёте";
+"title5" = "Безопасно";
+"title6" = "Спокойно";
+"title7" = "Дерзко";
+"title8" = "Предсказуемо";
+"title9" = "С проекцией на стекло машины";
+"title10" = "Предсказуемо";
+"title11" = "Великолепно";
+
+"mainMessageFormat" = "%@ проехал %@ с #HUDWAY";
+
+"error #321 message" = "Не возможно сейчас войти, используя VK";
+"error #322 message" = "Не возможно сейчас войти, используя VK";
+"error #323 message" = "Не возможно сейчас войти, используя VK, отсутствует Интернет-соединение";
+"error #325 message" = "Нет возможности сейчас опубликовать действие в VK. Попробуйте повторить позднее";
+
+"action VKSocialActionPostStageResult description" = "Отправка в Vk.com...";
+
+"Cancel button" = "Отмена";
+"Ok button" = "Готово";
+"Captcha message title" = "Введите код:\n\n\n\n\n";

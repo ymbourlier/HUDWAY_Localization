@@ -1,0 +1,24 @@
+"back button"                               = "返回";
+
+"share label text"                          = "";
+
+"cancel button"                             = "取消";
+"ok button"                                 = "好";
+"publish to remote service button"          = "发送到HUDWAYAPP.COM";
+"republish to remote service button"        = "重新发送到HUDWAYAPP.COM";
+"send to email button"                      = "通过电子邮件分享";
+"open in browser button"                    = "在Safari中打开";
+"delete button title"                       = "删除";
+
+"lock alert publish start"                  = "正在发布路径分享";
+"lock alert send to facebook start"         = "正在分享到Facebook";
+"lock alert send to twitter start"          = "正在分享到Facebook";
+"lock alert publish success"                = "分享成功！";
+"lock alert deleting stage result"          = "正在删除...";
+"lock alert deleted stage result"           = "完成！";
+"lock alert saving track"                   = "正在保存";
+
+"alert delete title"                        = "删除路径？";
+"alert delete message"                      = "所有行程数据将会被删除。";
+
+"share with friends title"                  = "分享";

@@ -1,0 +1,16 @@
+"title"                             = "Запись маршрута";
+"time title"                        = "Время";
+"speed title"                       = "Скорость";
+"distance title"                    = "Дистанция";
+
+"alert delete title"                = "Удалить данные?";
+"alert delete message"              = "Отмена удалит все данные проезда по маршруту";
+
+"start text"                        = "СТАРТ!";
+
+"finish button"                     = "Финиш!";
+"cancel button"                     = "Отмена";
+"skip button"                       = "Пропустить";
+
+"lock alert deleting stage result"  = "Удаление данных...";
+"lock alert deleted stage result"   = "Готово!";

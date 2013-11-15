@@ -1,0 +1,17 @@
+"track table cell title format" = "%@ за %@";
+
+"back button" = "Назад";
+
+"my stage results title format" = "Мои результаты: %d";
+"my stage results description format" = "время %@ / ср. скор-ть %@";
+
+"leaderboard wait title" = "Подождите...";
+"leaderboard wait description" = "получаю данные";
+
+"leaderboard title format" = "Лучший %@";
+"leaderboard description format" = "за %@, всего результатов: %d";
+
+"leaderboard not available title" = "Результаты не доступны";
+"leaderboard not available description" = "не могу получить данные";
+
+"alert remote service error message" = "Не возможно получить данные. Проблема с Интернет-подключением";

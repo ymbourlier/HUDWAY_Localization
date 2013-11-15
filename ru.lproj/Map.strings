@@ -1,0 +1,16 @@
+"mapTypeStandard"   = "Схема";
+"mapTypeHybrid"     = "Гибрид";
+"mapTypeSatellite"  = "Спутник";
+
+"current position button title" = "Текущая";
+"start position button title"   = "Начало маршрута";
+"finish position button title"   = "Конец маршрута";
+
+"map type label" = "Тип карты";
+"map position label" = "Позиция на карте";
+
+"map settings title" = "Настройки карты";
+
+"routing options title" = "Проложить маршрут";
+"set start position button" = "Отсюда";
+"set finish position button" = "Сюда";

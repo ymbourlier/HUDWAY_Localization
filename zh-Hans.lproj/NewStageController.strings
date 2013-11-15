@@ -1,0 +1,11 @@
+"page title"    = "新路线";
+
+"can't save stage text"             = "请输入您的名字";
+"alert delete title"                = "删除该路线？";
+"alert delete message"              = "";
+
+"cancel button"                     = "取消";
+"save button"                       = "新增";
+
+"lock alert get address"            = "正在获取地址...";
+"lock alert deleting stage result"  = "正在删除...";

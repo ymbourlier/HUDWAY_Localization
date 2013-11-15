@@ -1,0 +1,11 @@
+"UserController Page_iPhone"    = "我的信息";
+
+"log in button title"           = "登录";
+"log out button title"          = "退出";
+
+"lock alert log in start"       = "正在登录...";
+"lock alert log out start"      = "正在退出...";
+"lock alert log in success"     = "登录成功！";
+"lock alert log out success"    = "已退出";
+
+"back button"                   = "返回";

@@ -1,0 +1,24 @@
+"back button"                               = "Назад";
+
+"share label text"                          = "";
+
+"cancel button"                             = "Отмена";
+"ok button"                                 = "OK";
+"publish to remote service button"          = "Отправить на hudwayapp.com";
+"republish to remote service button"        = "Переотправить на hudwayapp.com";
+"send to email button"                      = "Отправить по эл. почте";
+"open in browser button"                    = "Открыть в Сафари";
+"delete button title"                       = "Удалить";
+
+"lock alert publish start"                  = "Публикация маршрута...";
+"lock alert send to facebook start"         = "Отправка в Facebook...";
+"lock alert send to twitter start"          = "Отправка в Twitter...";
+"lock alert publish success"                = "Маршрут опубликован!";
+"lock alert deleting stage result"          = "Удаление...";
+"lock alert deleted stage result"           = "Готово!";
+"lock alert saving track"                   = "Сохранение...";
+
+"alert delete title"                        = "Удалить данные?";
+"alert delete message"                      = "Произойдет удаление всех данных проезда по маршруту";
+
+"share with friends title"                  = "Делитесь с друзьями";

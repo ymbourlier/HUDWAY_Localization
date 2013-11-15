@@ -1,0 +1,13 @@
+/* 
+  Menu.strings
+  CityRacer
+
+  Created by Kirill Frolov on 28.01.13.
+
+*/
+
+"MyStagesMenuItem"  = "Routes";
+"NearbyMenuItem"    = "Explore";
+"StoreMenuItem"     = "Upgrade";
+"SettingsMenuItem"  = "Settings";
+"RoutingMenuItem"   = "Build a route";

@@ -1,0 +1,24 @@
+"purchased title" = "Куплено!";
+"loading product price title" = "Получаю цену...";
+
+"need purchase alert title" = "Действие не доступно";
+"need purchase alert message for product com.RITLLC.HudWay.NonConsumable.ProMode" = "Для этого действия необходимо купить дополнительное улучшение \"Pro Режим\"";
+
+"promotion alert title" = "PRO режим";
+"promotion alert message" = "Функции PRO режима не куплены. Демонстрация\nрежима — 5 минут";
+
+"cancel button" = "Отмена";
+"store button" = "Купить";
+"accept promotion button" = "OK";
+
+"purchase com.RITLLC.HudWay.NonConsumable.AdFree title" = "Отключение рекламы";
+"purchase com.RITLLC.HudWay.NonConsumable.ProMode title" = "Pro режим";
+
+"purchase com.RITLLC.HudWay.NonConsumable.AdFree description" = "Наслаждайтесь HUDWAY не видя никаких внешних объявлений и получите дополнительное поле для данных на экране";
+"purchase com.RITLLC.HudWay.NonConsumable.ProMode description" = "С «Pro режимом» вы сможете настроить внешний вид дороги и поворотов, а также приложение предупредит вас об опасном повороте";
+
+"purchase com.RITLLC.HudWay.NonConsumable.AdFree buy button" = "Отключить рекламу за %@";
+"purchase com.RITLLC.HudWay.NonConsumable.ProMode buy button" = "Перейти в Pro режим за %@";
+
+"alert purchase error #100 message" = "Не могу подлючится к App Store, проверьте в Настроки > Основные > Ограничения что встроенные покупки разрешены";
+"alert purchase error #105 message" = "Не могу подлючится к App Store";

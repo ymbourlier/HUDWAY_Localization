@@ -1,0 +1,29 @@
+/* 
+  Social.strings
+  HudWay
+
+  Created by Kirill Frolov on 27.09.13.
+
+*/
+
+"error #330 message" = "路径分享成功。";
+"error #332 message" = "为了将您的路径发布到HUDWAYAPP.COM，您必须进行此项操作。";
+"error #333 message" = "邮件发送失败，请稍后再试";
+
+"action SocialActionPublishStageResult description" = "路径发布中...";
+
+"mail html message format" = "<p>我通过使用HUDWAY实现了安全驾驶。</p><p>标签: %@</p><p>时间: %@</p><p>平均速度: %@</p><p>最高速度: %@</p><p>%@: %@</p><p><a href='%@'>HUDWAYAPP.com</a></p>";
+"mail subject" = "邮件主题";
+"0-60mi" = "0-60英里/每小时";
+"0-100km" = "0-100公里/每小时";
+"sec" = "秒";
+
+"empty user name" = "请输入你的名字";
+
+"error alert title" = "错误";
+"need login alert title" = "需要登录后使用";
+"need login alert message" = "";
+
+"ok button" = "好";
+"cancel button" = "取消";
+"login button" = "登录";

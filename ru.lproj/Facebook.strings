@@ -1,0 +1,5 @@
+"error #300 message" = "Нет возможности сейчас осуществить вход в Facebook, проблемы с Интернет-подключением.";
+"error #301 message" = "Нет возможности сейчас осуществить вход в Facebook, приложение отключено в системных настройках Facebook";
+"error #303 message" = "Нет возможности сейчас опубликовать действие в Facebook. Попробуйте повторить позднее";
+
+"action FBSocialActionPostStageResult description" = "Отправка в Facebook...";

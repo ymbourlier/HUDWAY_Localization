@@ -1,0 +1,12 @@
+/* 
+  SettingsController.strings
+  CityRacer
+
+  Created by Kirill Frolov on 29.01.13.
+
+*/
+"SettingsController Page_iPhone"  = "Настройки";
+
+"map settings title" = "КАРТЫ И МАРШРУТИЗАЦИЯ";
+
+"auto lock settings description" = "Настройте Автоблокировку, чтобы экран не отключался во время движения";

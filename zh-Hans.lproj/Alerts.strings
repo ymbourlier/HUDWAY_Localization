@@ -1,0 +1,11 @@
+"no button"             = "否";
+"yes button"            = "是";
+"cancel button"         = "取消";
+"done button"           = "完成";
+"close button"          = "关闭";
+"delete button"         = "删除";
+
+"edit name request"     = "请输入您的姓名";
+
+"authorization title"   = "授权";
+"info title"            = "通知";

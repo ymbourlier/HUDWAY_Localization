@@ -1,0 +1,13 @@
+/* 
+  Gidme.strings
+  HudWay
+
+  Created by Kirill Frolov on 10.10.13.
+
+*/
+
+"error #401 message" = "Unable to log in. User is not found";
+"error #402 message" = "Unable to log in. Invalid email or password";
+"error #410 message" = "Unable to log in. Empty email or password";
+
+"error #500 message" = "The problem with the Internet connection";

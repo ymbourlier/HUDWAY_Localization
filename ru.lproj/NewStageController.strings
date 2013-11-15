@@ -1,0 +1,11 @@
+"page title"    = "Новый маршрут";
+
+"can't save stage text"             = "Нельзя сохранить маршрут с пустым именем!";
+"alert delete title"                = "Удалить маршрут?";
+"alert delete message"              = "";
+
+"cancel button"                     = "Отмена";
+"save button"                       = "Добавить";
+
+"lock alert get address"            = "Получение адреса...";
+"lock alert deleting stage result"  = "Удаление данных...";

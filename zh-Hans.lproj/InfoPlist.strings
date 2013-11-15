@@ -1,0 +1,5 @@
+/* Localized versions of Info.plist keys */
+
+"CFBundleDisplayName"           = "HUDWAY";
+"CFBundleName"                  = "HUDWAY";
+"NSLocationUsageDescription"    = "此应用将使用GPS来记录您的路线";

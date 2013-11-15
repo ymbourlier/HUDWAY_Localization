@@ -1,0 +1,16 @@
+"mapTypeStandard"   = "标准模式";
+"mapTypeHybrid"     = "混合模式";
+"mapTypeSatellite"  = "卫星模式";
+
+"current position button title" = "当前位置";
+"start position button title"   = "出发地";
+"finish position button title"   = "目的地";
+
+"map type label" = "地图类别";
+"map position label" = "定位信息";
+
+"map settings title" = "地图设置";
+
+"routing options title" = "路线设定";
+"set start position button" = "出发地";
+"set finish position button" = "目的地";

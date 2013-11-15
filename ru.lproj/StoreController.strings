@@ -1,0 +1,16 @@
+"store title" = "Улучшения";
+
+"lock alert get products info" = "Получаю покупки из AppStore...";
+"lock alert purchase processing" = "Обработка покупки...";
+"lock alert purchase success" = "Готово!";
+
+"lock alert save purchases processing" = "Сохранение покупок...";
+"lock alert success save purchases processing" = "Готово!";
+
+"lock alert restore purchases processing" = "Восстановление покупок...";
+"lock alert success restore purchases processing" = "Готово!";
+
+"cancel button" = "Отмена";
+"restore purchases button" = "Восстановить покупки";
+
+"can't connect to app store label" = "ITunes Store сейчас не доступен.\n\nПопробуйте снова позднее";

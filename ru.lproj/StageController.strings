@@ -1,0 +1,38 @@
+/* 
+  Stage2Controller.strings
+  CityRacer
+
+  Created by Kirill Frolov on 30.01.13.
+
+*/
+
+"StageController Page_iPhone"       = "Маршрут";
+
+"not in start place alert title"    = "Информация";
+"not in start place alert text"     = "Вы стартуете не в точке старта";
+
+"ok button"                         = "Ok";
+"start button"                      = "Старт";
+"cancel button"                     = "Отмена";
+"delete button"                     = "Удалить маршрут";
+"download button"                   = "Загрузить";
+"back button"                       = "Назад";
+
+"map block label"                   = "Карта не доступна... \n\n У этого маршрута нет результатов.\n Нажмите «Старт» чтобы создать\nисходные данные маршрута.";
+"map load label"                    = "Загрузка карты...";
+
+"alert delete title"                = "Удалить маршрут?";
+"alert delete message"              = "";
+
+"lock alert deleting stage result"  = "Удаление...";
+"lock alert deleted stage result"   = "Готово!";
+
+"lock alert start download"         = "Загрузка маршрута...";
+"lock alert start save"             = "Сохранение маршрута...";
+"lock alert success download"       = "Маршрут загружен.";
+
+"alert not download stage title"    = "Загрузить маршрут?";
+"alert not download stage message"  = "Этот маршрут находится в Интернет-хранилище, чтобы поехать по нему, его нужно сначала закачать";
+
+"no free system space alert title"   = "Не удается загрузить маршрут";
+"no free system space alert message" = "Для загрузки маршрута недостаточно памяти. Местом хранения можно управлять в настройках";

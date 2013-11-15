@@ -1,0 +1,33 @@
+"mode 0 title" = "";
+"mode 1 title" = "设定路线";
+"mode 2 title" = "其他路线";
+
+"from placeholder" = "从这里出发";
+"to placeholder" = "到这里去";
+
+"create route button" = "设定路线";
+"start ride to route button" = "出发";
+"cancel button" = "取消";
+
+"set start position button" = "从这里出发";
+"set finish position button" = "到这里去";
+
+"lock alert get current location" = "正在获取当前位置...";
+"lock alert get geo tracks" = "正在建立路线...";
+"lock alert preparation to start" = "正在初始化路线...";
+
+"lock alert get extended geo track" = "正在加载路线...";
+"lock alert get extended geo track progress format" = "加载—%d%%";
+
+"lock alert save geo track" = "正在保存路线...";
+"lock alert save geo track success" = "保存成功";
+
+"empty stages description" = "您的设备不存在已记录的路线。您可以通过点击下面的按钮去创建新路线。";
+"empty stages button" = "记录您的路线吧！";
+
+"find address name title" = "      正在搜索...";
+
+"map action sheet title" = "";
+
+"start title" = "出发地:";
+"finish title" = "目的地:";

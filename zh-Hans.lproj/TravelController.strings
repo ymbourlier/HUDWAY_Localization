@@ -1,0 +1,27 @@
+"finish stage win alert title"          = "恭喜！";
+"finish stage not win alert title"      = "抱歉";
+"finish stage win message format"       = "%@ 这是您的最优路径";
+"finish stage not win message format"   = "您所用的时间比%@要长哦";
+
+"finish geo track alert title"          = "信息";
+"finish geo track alert message"        = "您已经到达目的地";
+
+"start text"                            = "出发！";
+
+"brightnes label"                       = "亮度";
+"perspective label"                     = "提前预见距离 %@";
+
+"cancel button"                         = "取消";
+"skip button"                           = "跳过";
+
+"insert into route description"         = "输入路线并出发";
+"go back to route description"          = "您已偏离原定路线！";
+"recalculate route description"         = "重置路线中...";
+
+"close alert title"                     = "退出前选择";
+"cancel button"                         = "取消";
+"save button"                           = "保存";
+"don't save button"                     = "不保存";
+
+"lock alert deleting stage result"      = "正在删除";
+"lock alert deleted stage result"       = "完成！";

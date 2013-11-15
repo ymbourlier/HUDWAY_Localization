@@ -1,0 +1,33 @@
+"mode 0 title" = "";
+"mode 1 title" = "Создание маршрута";
+"mode 2 title" = "Выбор маршрута";
+
+"from placeholder" = "Введите адрес";
+"to placeholder" = "Введите адрес";
+
+"create route button" = "Проложить маршрут";
+"start ride to route button" = "Старт";
+"cancel button" = "Отмена";
+
+"set start position button" = "Отсюда";
+"set finish position button" = "Сюда";
+
+"lock alert get current location" = "Получаю текущую\nгеопозицию...";
+"lock alert get geo tracks" = "Строю маршрут...";
+"lock alert preparation to start" = "Подготовка маршрута...";
+
+"lock alert get extended geo track" = "Загрузка маршрута...";
+"lock alert get extended geo track progress format" = "Загрузка маршрута %d%%";
+
+"lock alert save geo track" = "Сохранение маршрута...";
+"lock alert save geo track success" = "Сохранено в маршруты";
+
+"empty stages description" = "У Вас пока нет записанных маршрутов\n\nВы можете записать новый маршрут, нажав кнопку ниже";
+"empty stages button" = "Записать маршрут!";
+
+"find address name title" = "      поиск адреса...";
+
+"map action sheet title" = "Проложить маршрут";
+
+"start title" = "Начало:";
+"finish title" = "Конец:";

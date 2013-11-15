@@ -1,0 +1,11 @@
+/* 
+  StageLeaderboardController.strings
+  CityRacer
+
+  Created by Kirill Frolov on 30.01.13.
+
+*/
+
+"StageLeaderboardController Page_iPhone"  = "Leader Board";
+
+"back button" = "Back";

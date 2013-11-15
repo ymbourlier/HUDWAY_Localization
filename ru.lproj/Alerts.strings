@@ -1,0 +1,9 @@
+"no button"             = "Нет";
+"yes button"            = "Да";
+"cancel button"         = "Отмена";
+"done button"           = "Готово";
+"close button"          = "Закрыть";
+"delete button"         = "Удалить";
+
+"authorization title"   = "Вход";
+"info title"            = "Информация";

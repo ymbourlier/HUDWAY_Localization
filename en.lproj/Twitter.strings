@@ -1,0 +1,15 @@
+/* 
+  Twitter.strings
+  CityRacer
+
+  Created by Kirill Frolov on 15.01.13.
+
+*/
+
+"post stage tweet format" = "Drove to %@ with #HUDWAY app. Distance %@, Time %@, Avr. speed %@ %@";
+
+"error #310 message" = "Unable to log in Twitter. An error in Internet connection";
+"error #311 message" = "Unable to log in. In System Twitter is not set";
+"error #312 message" = "Unable to publish action to Twitter. Try again later";
+
+"action TWSocialActionPostStageResult description" = "Sharing to Twitter..";

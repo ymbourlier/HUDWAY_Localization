@@ -1,0 +1,16 @@
+"top label text"                = "成为HUDWAY的注册用户";
+"registration label"            = "注册";
+"recovery password label"       = "忘记密码？";
+
+"login remote service button"   = "登录";
+"login facebook button title"   = "使用Facebook帐号注册";
+"login twitter button title"    = "使用Twitter帐号注册";
+"dont login button"             = "跳过";
+
+"email placeholder"             = "电子邮箱";
+"password placeholder"          = "密码";
+
+"lock alert enter in remote service" = "请输入...";
+"lock alert enter in facebook"  = "正在登录";
+"lock alert enter in twitter"   = "正在登录";
+"lock alert success login"      = "登录成功！";

@@ -1,0 +1,38 @@
+/* 
+  Stage2Controller.strings
+  CityRacer
+
+  Created by Kirill Frolov on 30.01.13.
+
+*/
+
+"StageController Page_iPhone"       = "路线";
+
+"not in start place alert title"    = "通知";
+"not in start place alert text"     = "您不在出发地";
+
+"ok button"                         = "好";
+"start button"                      = "出发！";
+"cancel button"                     = "取消";
+"delete button"                     = "删除路线";
+"download button"                   = "下载";
+"back button"                       = "返回";
+
+"map block label"                   = "地图暂不可用\n\n 同时该路线是无效的。 请点击 \"出发！\" 记录您的路线。";
+"map load label"                    = "正在加载地图...";
+
+"alert delete title"                = "是否删除路线？";
+"alert delete message"              = "";
+
+"lock alert deleting stage result"  = "正在删除...";
+"lock alert deleted stage result"   = "完成！";
+
+"lock alert start download"         = "正在加载...";
+"lock alert start save"             = "正在保存...";
+"lock alert success download"       = "完成";
+
+"alert not download stage title"    = "是否需要下载此路线？";
+"alert not download stage message"  = "当前所见路线为在线版本，在您出发之前，请务必下载。";
+
+"no free system space alert title"   = "路线下载失败";
+"no free system space alert message" = "内存不足导致无法下载，您可以在设备的设置中进行调整。";

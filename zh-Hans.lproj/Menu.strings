@@ -1,0 +1,13 @@
+/* 
+  Menu.strings
+  CityRacer
+
+  Created by Kirill Frolov on 28.01.13.
+
+*/
+
+"MyStagesMenuItem"  = "路线";
+"NearbyMenuItem"    = "探索";
+"StoreMenuItem"     = "升级";
+"SettingsMenuItem"  = "设置";
+"RoutingMenuItem"   = "设定路线";

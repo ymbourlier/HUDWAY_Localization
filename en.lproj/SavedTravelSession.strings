@@ -1,0 +1,5 @@
+
+"restore alert title" = "Detected an incomplete journey";
+"restore alert message" = "What to do with trip data?";
+"delete button" = "Delete";
+"save button" = "Save";
