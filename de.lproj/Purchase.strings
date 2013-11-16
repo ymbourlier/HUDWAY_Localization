@@ -1,24 +1,24 @@
-"purchased title" = "Purchased!";
-"loading product price title" = "Loading price...";
+"purchased title" = "Gekauft!";
+"loading product price title" = "Preis wird geladen...";
 
-"need purchase alert title" = "Action is not available";
-"need purchase alert message for product com.RITLLC.HudWay.NonConsumable.ProMode" = "For this action is necessary to buy \"Pro Mode\" in additional upgrade";
+"need purchase alert title" = "Auswahl nicht verfügbar";
+"need purchase alert message for product com.RITLLC.HudWay.NonConsumable.ProMode" = "Für diese Funktion müssen Sie die PRO Version \"Pro Modus\" zusätzlich erwerben";
 
-"promotion alert title" = "PRO mode";
-"promotion alert message" = "PRO mode functions are not purchased. Demonstration mode will enable it for 5 minutes only";
+"promotion alert title" = "PRO Modus";
+"promotion alert message" = "PRO Modus Funktionen wurden bisher nicht erworben. Diese werden zur Demonstration für 5 Minute aktiviert";
 
-"cancel button" = "Cancel";
-"store button" = "Buy";
+"cancel button" = "Abbrechen";
+"store button" = "Kaufen";
 "accept promotion button" = "OK";
 
 "purchase com.RITLLC.HudWay.NonConsumable.AdFree title" = "Ad Free";
-"purchase com.RITLLC.HudWay.NonConsumable.ProMode title" = "Pro Mode";
+"purchase com.RITLLC.HudWay.NonConsumable.ProMode title" = "Pro Modus";
 
-"purchase com.RITLLC.HudWay.NonConsumable.AdFree description" = "Enjoy HUDWAY without Ads and get an extra place on the tracking screen";
-"purchase com.RITLLC.HudWay.NonConsumable.ProMode description" = "Want more features? With the \"Pro Mode\" you will be able to customize the view of the road and its turns, the application will alert you to dangerous curves";
+"purchase com.RITLLC.HudWay.NonConsumable.AdFree description" = "HUDWAY ohne Werbeeinblendungen";
+"purchase com.RITLLC.HudWay.NonConsumable.ProMode description" = "Mehr Funktionen? Im \"Pro Modus\" können Sie die Strassen- und Streckenansicht personalisieren, zusätzlich warnt das Programm vor gefährlichen Kurven";
 
-"purchase com.RITLLC.HudWay.NonConsumable.AdFree buy button" = "Turn off ads for %@";
-"purchase com.RITLLC.HudWay.NonConsumable.ProMode buy button" = "Upgrade to Pro mode for %@";
+"purchase com.RITLLC.HudWay.NonConsumable.AdFree buy button" = "Werbeeinblendungen deaktivieren für %@";
+"purchase com.RITLLC.HudWay.NonConsumable.ProMode buy button" = "Upgrade auf Pro Modus für %@";
 
-"alert purchase error #100 message" = "Can't connect to App Store, check in Settings > General > Restrictions that the In-App Purchases is enabled";
-"alert purchase error #105 message" = "Can't connect to App Store";
+"alert purchase error #100 message" = "Keine Verbindung zum App Store, prüfen Sie unter Einstellungen > Allgemein > Einschränkungen dass In-App-Käufe aktiviert ist";
+"alert purchase error #105 message" = "Keine Verbindung zum App Store";
