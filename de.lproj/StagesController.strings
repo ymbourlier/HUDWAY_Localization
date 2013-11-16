@@ -1,7 +1,7 @@
-"StagesController Page_iPhone"  = "Routes";
+"StagesController Page_iPhone"  = "Strecken";
 
-"quick start button title"      = "Record route";
+"quick start button title"      = "Strecke aufzeichnen";
 
-"lock alert deleting stage"     = "Deleting...";
+"lock alert deleting stage"     = "Löschen...";
 
-"empty stages description"      = "It will be shown\nyour routes\n\n\n\nTo create a new\nroute,\npress to \nRecord route";
+"empty stages description"      = "Angezeigt werden\nIhre Strecken\n\n\n\nZum Aufzeichnen einer neue\nStrecke,\ndrücken Sie \nStrecke aufzeichnen";
