@@ -9,7 +9,7 @@
 "post stage tweet format" = "Nach %@ mit #HUDWAY App gefahren. Entfernung %@, Dauer %@,Durchschnittsgeschw. %@ %@";
 
 "error #310 message" = "Anmeldung zu Twitter fehlgeschlagen. Keine Internetverbindung";
-"error #311 message" = "Anmeldung fehlgeschlagen. Twitter in den Einstellungen nicht eingestellt";
+"error #311 message" = "Anmeldung fehlgeschlagen. Twitter in den Einstellungen nicht konfiguriert";
 "error #312 message" = "Veröffentlichung bei Twitter fehlgeschlagen. Bitte später versuchen";
 
 "action TWSocialActionPostStageResult description" = "Teilen auf Twitter..";
