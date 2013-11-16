@@ -11,7 +11,7 @@
 "leaderboard title format" = "Bestes Ergebnis %@";
 "leaderboard description format" = "für %@ von %d Ergebnissen";
 
-"leaderboard not available title" = "Leader board nicht verfügbar";
+"leaderboard not available title" = "Bestenliste nicht verfügbar";
 "leaderboard not available description" = "Daten können nicht geladen werden";
 
 "alert remote service error message" = "Daten können nicht geladen werden, keine Internetverbindung";
