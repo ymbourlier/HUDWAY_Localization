@@ -1,17 +1,17 @@
-"hours short" = "h.";
-"minutes short" = "min.";
-"seconds short" = "sec.";
+"hours short" = "Std.";
+"minutes short" = "Min.";
+"seconds short" = "Sec.";
 "day hour delimiter" = "at";
 
 "mounth 1 short" = "Jan.";
 "mounth 2 short" = "Feb.";
-"mounth 3 short" = "March";
+"mounth 3 short" = "März";
 "mounth 4 short" = "Apr.";
-"mounth 5 short" = "May";
-"mounth 6 short" = "June";
+"mounth 5 short" = "Mai";
+"mounth 6 short" = "Juni";
 "mounth 7 short" = "July";
 "mounth 8 short" = "Aug.";
 "mounth 9 short" = "Sept.";
-"mounth 10 short" = "Oct.";
+"mounth 10 short" = "Okt.";
 "mounth 11 short" = "Nov.";
-"mounth 12 short" = "Dec.";
+"mounth 12 short" = "Dez.";
