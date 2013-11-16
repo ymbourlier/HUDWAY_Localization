@@ -1,17 +1,17 @@
 "track table cell title format" = "%@ in %@";
 
-"back button" = "Back";
+"back button" = "Zurück";
 
 "my stage results title format" = "My results: %d";
-"my stage results description format" = "time %@ / avg. speed %@";
+"my stage results description format" = "Zeit %@ / durchschn. Geschwindigkeit %@";
 
-"leaderboard wait title" = "Please wait...";
-"leaderboard wait description" = "get data";
+"leaderboard wait title" = "Bitte warten...";
+"leaderboard wait description" = "lade Daten";
 
-"leaderboard title format" = "Best result %@";
-"leaderboard description format" = "for %@ of %d results";
+"leaderboard title format" = "Bestes Ergebnis %@";
+"leaderboard description format" = "für %@ von %d Ergebnissen";
 
-"leaderboard not available title" = "Leader board is not available";
-"leaderboard not available description" = "can't get data";
+"leaderboard not available title" = "Leader board nicht verfügbar";
+"leaderboard not available description" = "Daten können nicht geladen werden";
 
-"alert remote service error message" = "Can't get data. Error with Internet connection";
+"alert remote service error message" = "Daten können nicht geladen werden, keine Internetverbindung";
