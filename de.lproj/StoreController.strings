@@ -1,16 +1,16 @@
-"store title" = "Upgrade Store";
+"store title" = "Upgrade Shop";
 
-"lock alert get products info" = "Get info from AppStore...";
-"lock alert purchase processing" = "Purchase processing...";
-"lock alert purchase success" = "Success!";
+"lock alert get products info" = "Lade Informationen vom AppStore...";
+"lock alert purchase processing" = "Kauf wird durchgeführt...";
+"lock alert purchase success" = "Erfolgreich!";
 
-"lock alert save purchases processing" = "Saving purchases...";
-"lock alert success save purchases processing" = "Success!";
+"lock alert save purchases processing" = "Käufe werden gespeichert...";
+"lock alert success save purchases processing" = "Erfolgreich!";
 
-"lock alert restore purchases processing" = "Restore purchases...";
-"lock alert success restore purchases processing" = "Success!";
+"lock alert restore purchases processing" = "Käufe werden wiederhergestellt...";
+"lock alert success restore purchases processing" = "Erfolgreich!";
 
-"cancel button" = "Cancel";
-"restore purchases button" = "Restore purchases";
+"cancel button" = "Abbrechen";
+"restore purchases button" = "Käufe wiederherstellen";
 
-"can't connect to app store label" = "Cannot connect to iTunes Store.\n\nTry again later";
+"can't connect to app store label" = "Keine Verbindung zum iTunes Store.\n\nBitte später versuchen";
