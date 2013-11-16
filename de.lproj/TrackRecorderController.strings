@@ -1,17 +1,17 @@
-"title"                             = "Route recording";
-"time title"                        = "Time";
-"speed title"                       = "Speed";
-"distance title"                    = "Distance";
+"title"                             = "Streckenaufzeichnung";
+"time title"                        = "Dauer";
+"speed title"                       = "Geschwindigkeit";
+"distance title"                    = "Entfrnung";
 
-"alert delete title"                = "Delete data?";
-"alert delete message"              = "Cancel will erase all travel data on the route";
+"alert delete title"                = "Daten lösche?";
+"alert delete message"              = "Abbrechen wird alle Streckendaten löschen";
 
 "start text"                        = "START!";
 
-"finish button"                     = "Finish!";
-"cancel button"                     = "Cancel";
+"finish button"                     = "Ende!";
+"cancel button"                     = "Abbrechen";
 
-"skip button"                       = "Skip";
+"skip button"                       = "Überspringen";
 
-"lock alert deleting stage result"  = "Deleting data...";
-"lock alert deleted stage result"   = "Done!";
+"lock alert deleting stage result"  = "Lösche Daten...";
+"lock alert deleted stage result"   = "Fertig!";
