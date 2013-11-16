@@ -2,4 +2,4 @@
 
 "CFBundleDisplayName"           = "HUDWAY";
 "CFBundleName"                  = "HUDWAY";
-"NSLocationUsageDescription"    = "The application use GPS to record youre routes";
+"NSLocationUsageDescription"    = "Dieses Programm nutzt GPS um Ihre Bewegungen aufzuzeichnen";
