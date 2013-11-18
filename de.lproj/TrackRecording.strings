@@ -1,13 +1,13 @@
-"location services access dialog message" = "The application use GPS to record youre routes";
+"location services access dialog message" = "Dieses Programm nutzt GPS zur Aufzeichnung Ihrer Strecken";
 
-"cancel button" = "Close";
-"ok button" = "Done";
+"cancel button" = "Schiessen";
+"ok button" = "Fertig";
 
-"user disabled location service alert title" = "Can't record the Route";
-"user disabled location service for application alert message" = "Please provide an access to the Location services for this application. Go to Location services Settings, find 'Check My Race' and switch it 'On'";
-"user disabled location service for device alert message" = "The Location services is switched off. Go to Location services Settings and switch it 'On'.";
+"user disabled location service alert title" = "Strecke kann nicht aufgzeichnet werden";
+"user disabled location service for application alert message" = "Gewähren Sie der App Zugriff auf die Ortugsdienste. Gehen Sie auf die Einstellungen der Ortungsdienste, suchen Sie  'Check My Race' und schalten Sie diese 'Ein'";
+"user disabled location service for device alert message" = "Ortungsdienste sind deaktiviert. Gehen Sie in den Einstellungen auf Ortungsdienste und schalten Sie diese ein.";
 
-"no free system space alert title" = "Unable to record the route";
-"no free system space alert message" = "To record the route is not enough memory. Storage location can be controlled in the settings";
+"no free system space alert title" = "Strecke kann nicht aufgezeichnet werden";
+"no free system space alert message" = "Nicht genug Speicherplatz zum aufzeichnen der Strecke. Der Speicherort kann in den Einstellungen konfigurert werden";
 
-"can't write empty track alert" = "No distance, route results can't be saved";
+"can't write empty track alert" = "Keine Entfernung, Streckenergebnisse können nicht gespeichert werden";

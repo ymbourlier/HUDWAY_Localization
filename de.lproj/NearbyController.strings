@@ -5,7 +5,7 @@
   Created by Kirill Frolov on 29.01.13.
 
 */
-"NearbyController Page_iPhone"  = "Explore";
+"NearbyController Page_iPhone"  = "Umgebungssuche";
 
-"map options button" = "Options";
-"change location button" = "Search this location";
+"map options button" = "Optionen";
+"change location button" = "Hier suchen";

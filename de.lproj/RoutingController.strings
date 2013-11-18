@@ -1,33 +1,33 @@
 "mode 0 title" = "";
-"mode 1 title" = "Build a route";
-"mode 2 title" = "Route selection";
+"mode 1 title" = "Strecke erstellen";
+"mode 2 title" = "Streckenauswahl";
 
-"from placeholder" = "From";
-"to placeholder" = "To";
+"from placeholder" = "Von";
+"to placeholder" = "Nach";
 
-"create route button" = "Build a route";
+"create route button" = "Strecke erstellen";
 "start ride to route button" = "Start";
-"cancel button" = "Cancel";
+"cancel button" = "Abbrechen";
 
-"set start position button" = "Directions from Here";
-"set finish position button" = "Directions to Here";
+"set start position button" = "Von hier navigieren";
+"set finish position button" = "Hierher navigieren";
 
-"lock alert get current location" = "Get current location...";
-"lock alert get geo tracks" = "Building a route...";
-"lock alert preparation to start" = "Preparing the route...";
+"lock alert get current location" = "Aktuellen Standort laden...";
+"lock alert get geo tracks" = "Strecke erstellen...";
+"lock alert preparation to start" = "Strecke vorbereiten...";
 
-"lock alert get extended geo track" = "Loading a route...";
-"lock alert get extended geo track progress format" = "Progress — %d%%";
+"lock alert get extended geo track" = "Strecke laden...";
+"lock alert get extended geo track progress format" = "Fortschritt — %d%%";
 
-"lock alert save geo track" = "Saving a route...";
-"lock alert save geo track success" = "Saved in routes";
+"lock alert save geo track" = "Strecke speichern...";
+"lock alert save geo track success" = "Unter Strecken gespeichert";
 
-"empty stages description" = "There are currently no recorded routes\n\nYou can create new route by tapping the button below";
-"empty stages button" = "Record a route!";
+"empty stages description" = "Derzeit sind keine aufgezeichneten Strecken verfügbar\n\nYou Sie können durch antippen des Auswahlfelds eine Strecke erstellen";
+"empty stages button" = "Strecke aufzeichnen!";
 
-"find address name title" = "      searching...";
+"find address name title" = "      suche...";
 
 "map action sheet title" = "";
 
 "start title" = "Start:";
-"finish title" = "End:";
+"finish title" = "Ziel:";

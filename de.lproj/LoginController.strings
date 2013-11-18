@@ -1,16 +1,16 @@
-"top label text"                = "Sign Up to HUDWAY profile";
-"registration label"            = "Registration";
-"recovery password label"       = "Forgot password?";
+"top label text"                = "Bei HUDWAY anmelden";
+"registration label"            = "Registrieren";
+"recovery password label"       = "Passwort vergessen?";
 
-"login remote service button"   = "Sign Up";
-"login facebook button title"   = "Sign Up with Facebook";
-"login twitter button title"    = "Sign Up with Twitter";
-"dont login button"             = "Skip";
+"login remote service button"   = "Anmelden";
+"login facebook button title"   = "Mit Facebook anmelden";
+"login twitter button title"    = "Mit Twitter anmelden";
+"dont login button"             = "Überspringen";
 
 "email placeholder"             = "E-mail";
-"password placeholder"          = "Password";
+"password placeholder"          = "Passwort";
 
-"lock alert enter in remote service" = "Enter...";
-"lock alert enter in facebook"  = "Enter Facebook...";
-"lock alert enter in twitter"   = "Enter Twitter...";
-"lock alert success login"      = "Login successfull!";
+"lock alert enter in remote service" = "Eingabe...";
+"lock alert enter in facebook"  = "Facebook Daten eingeben...";
+"lock alert enter in twitter"   = "Twitter Daten eingeben...";
+"lock alert success login"      = "Anmeldung erfolgreich!";

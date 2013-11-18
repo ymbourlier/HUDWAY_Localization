@@ -1,11 +1,11 @@
-"page title" = "Make a Route";
+"page title" = "Neue Strecke";
 
-"back button" = "Back";
+"back button" = "Zurück";
 
-"search address placeholer" = "Enter address";
+"search address placeholer" = "Adresse eingeben";
 
-"lock alert get location" = "Get location...";
+"lock alert get location" = "Standort suchen ...";
 
-"empty addresses description" = "Address not found";
+"empty addresses description" = "Adresse nicht gefunden";
 
-"history addresses title" = "Frequent addresses";
+"history addresses title" = "Bisher gewählte Adressen";

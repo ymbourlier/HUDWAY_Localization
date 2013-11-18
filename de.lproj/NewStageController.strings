@@ -1,11 +1,11 @@
 "page title"    = "New route";
 
-"can't save stage text"             = "Can't save route with empty name";
-"alert delete title"                = "Delete route?";
+"can't save stage text"             = "Eine Strecke ohne Bezeichnung kann nicht gespeichert werden";
+"alert delete title"                = "Strecke löschen?";
 "alert delete message"              = "";
 
-"cancel button"                     = "Cancel";
-"save button"                       = "Add";
+"cancel button"                     = "Abbrechen";
+"save button"                       = "Hinzufügen";
 
-"lock alert get address"            = "Get address...";
-"lock alert deleting stage result"  = "Delete data...";
+"lock alert get address"            = "Adresse suchen...";
+"lock alert deleting stage result"  = "Daten löschen...";

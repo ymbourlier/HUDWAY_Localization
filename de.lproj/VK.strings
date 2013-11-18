@@ -20,13 +20,13 @@
 
 "mainMessageFormat" = "%@ проехал %@ с #HUDWAY";
 
-"error #321 message" = "Not currently possible to log in using VK";
-"error #322 message" = "Not currently possible to log in using VK";
-"error #323 message" = "Not currently possible to enter, no Internet connection";
-"error #325 message" = "Unable to publish action to Vk.com. Try again later";
+"error #321 message" = "Anmeldung mit VK derzeit nicht möglich";
+"error #322 message" = "Anmeldung mit VK derzeit nicht möglich";
+"error #323 message" = "Eingabe derzeit nicht möglich, keine Internetverbindung";
+"error #325 message" = "Veröffentlichung bei Vk.com nicht möglich. Später erneut versuchen";
 
-"action VKSocialActionPostStageResult description" = "Sharing to Vk.com...";
+"action VKSocialActionPostStageResult description" = "Teilen auf Vk.com...";
 
-"Cancel button" = "Cancel";
-"Ok button" = "Done";
-"Captcha message title" = "Insert captcha...\n\n\n\n\n";
+"Cancel button" = "Abbrechen";
+"Ok button" = "Fertig";
+"Captcha message title" = "Captcha eingeben...\n\n\n\n\n";

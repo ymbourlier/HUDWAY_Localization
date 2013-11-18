@@ -1,27 +1,27 @@
-"finish stage win alert title"          = "Congratulations!";
-"finish stage not win alert title"      = "Sorry";
-"finish stage win message format"       = "%@ this is your best route result";
-"finish stage not win message format"   = "Your time is worse than %@";
+"finish stage win alert title"          = "Glückwunsch!";
+"finish stage not win alert title"      = "Schade";
+"finish stage win message format"       = "%@ das ist Ihr bestes Ergebnis";
+"finish stage not win message format"   = "Ihre Zeit ist schlechter als %@";
 
 "finish geo track alert title"          = "Information";
-"finish geo track alert message"        = "You have arrived at the destination";
+"finish geo track alert message"        = "Sie haben den Zielort erreicht";
 
 "start text"                            = "START!";
 
-"brightnes label"                       = "Brightness";
-"perspective label"                     = "Camera in advance %@";
+"brightnes label"                       = "Helligkeit";
+"perspective label"                     = "Vorausschau %@";
 
-"cancel button"                         = "Cancel";
-"skip button"                           = "Skip";
+"cancel button"                         = "Abbrechen";
+"skip button"                           = "Überspringen";
 
-"insert into route description"         = "Enter on route to start";
-"go back to route description"          = "You left from the route!";
-"recalculate route description"         = "Recalculating...";
+"insert into route description"         = "Fahren Sie auf die Strecke zum starten";
+"go back to route description"          = "Sie haben die Strecke verlassen!";
+"recalculate route description"         = "Neuberechnung...";
 
-"close alert title"                     = "Select before exiting";
-"cancel button"                         = "Cancel";
-"save button"                           = "Save";
-"don't save button"                     = "Don't save";
+"close alert title"                     = "Vor dem Schliessen auswählen";
+"cancel button"                         = "Abbrechen";
+"save button"                           = "Speichern";
+"don't save button"                     = "Nicht speichern";
 
-"lock alert deleting stage result"      = "Delete data...";
-"lock alert deleted stage result"       = "Done!";
+"lock alert deleting stage result"      = "Daten löschen...";
+"lock alert deleted stage result"       = "Fertig!";

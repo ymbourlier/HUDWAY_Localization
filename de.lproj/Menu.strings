@@ -6,8 +6,8 @@
 
 */
 
-"MyStagesMenuItem"  = "Routes";
-"NearbyMenuItem"    = "Explore";
+"MyStagesMenuItem"  = "Gespeicherte Strecken";
+"NearbyMenuItem"    = "Umgebungssuche";
 "StoreMenuItem"     = "Upgrade";
-"SettingsMenuItem"  = "Settings";
-"RoutingMenuItem"   = "Build a route";
+"SettingsMenuItem"  = "Einstellungen";
+"RoutingMenuItem"   = "Strecke erstellen";
