@@ -1,4 +1,4 @@
-/* 
+﻿/* 
   MenuController.strings
   CityRacer
 
@@ -7,4 +7,4 @@
 */
 
 "Copyright" = "%@ © RIT LLC. 版本号：%@";
-"ReportButton" = "Report a bug";
+"ReportButton" = "发送错误报告";

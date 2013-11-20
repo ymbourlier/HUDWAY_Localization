@@ -1,6 +1,6 @@
-"SurfaceType0" = "碎石路";
+﻿"SurfaceType0" = "砂砾路";
 "SurfaceType1" = "柏油路";
-"SurfaceType2" = "冰面";
+"SurfaceType2" = "雪地";
 "SurfaceType3" = "森林";
 "SurfaceType4" = "涉水";
 "SurfaceType5" = "高空";
@@ -9,9 +9,9 @@
 "VehicleType1" = "摩托车";
 "VehicleType2" = "自行车";
 "VehicleType3" = "步行";
-"VehicleType4" = "Asphalt";
-"VehicleType5" = "直升飞机";
-"VehicleType6" = "船";
+"VehicleType4" = "跑车";
+"VehicleType5" = "直升机";
+"VehicleType6" = "船舶";
 
 "SpeedUnit0" = "公里";
 "SpeedUnit1" = "英里和码";
@@ -79,7 +79,7 @@
 "propertyTitleSpecialSectorPropTypeStartLat"        = "";
 "propertyTitleSpecialSectorPropTypeStartLon"        = "";
 "propertyTitleSpecialSectorPropTypeTracksCount"     = "";
-"propertyTitleSpecialSectorPropTypeUserAuthorName"  = "作者";
+"propertyTitleSpecialSectorPropTypeUserAuthorName"  = "玩家";
 "propertyTitleSpecialSectorPropTypeUserWinnerName"  = "胜出者";
 
 "propertyPlaceholderSpecialSectorPropTypeName"          = "点击输入";

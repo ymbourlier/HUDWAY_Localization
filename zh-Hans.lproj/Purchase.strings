@@ -1,8 +1,8 @@
-"purchased title" = "购买成功！";
+﻿"purchased title" = "购买成功！";
 "loading product price title" = "正在加载价格...";
 
-"need purchase alert title" = "此操作无效。";
-"need purchase alert message for product com.RITLLC.HudWay.NonConsumable.ProMode" = "为了购买 \"专业版HUDWAY\"，此操作是必须的。";
+"need purchase alert title" = "此操作无效";
+"need purchase alert message for product com.RITLLC.HudWay.NonConsumable.ProMode" = "购买 \"专业版HUDWAY\"，此项操作是必须的";
 
 "promotion alert title" = "专业版";
 "promotion alert message" = "您还没有购买专业版HUDWAY。专业功能试用将会在5分钟后结束。";
@@ -15,7 +15,7 @@
 "purchase com.RITLLC.HudWay.NonConsumable.ProMode title" = "专业版";
 
 "purchase com.RITLLC.HudWay.NonConsumable.AdFree description" = "享受无广告的HUDWAY";
-"purchase com.RITLLC.HudWay.NonConsumable.ProMode description" = "想要更多功能吗？ 购买 \"专业版\" 你将会获得定制服务，HUDWAY将会提醒您可能导致危险的道路状况。";
+"purchase com.RITLLC.HudWay.NonConsumable.ProMode description" = "想要更多功能吗？ 购买 \"专业版\" 你将会获得定制服务，HUDWAY会提醒您可能导致危险的道路状况。";
 
 "purchase com.RITLLC.HudWay.NonConsumable.AdFree buy button" = "关闭所有广告 %@";
 "purchase com.RITLLC.HudWay.NonConsumable.ProMode buy button" = "升级专业版 %@";

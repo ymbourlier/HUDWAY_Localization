@@ -1,4 +1,4 @@
-/* 
+﻿/* 
   Stage2Controller.strings
   CityRacer
 
@@ -18,7 +18,7 @@
 "download button"                   = "下载";
 "back button"                       = "返回";
 
-"map block label"                   = "地图暂不可用\n\n 同时该路线是无效的。 请点击 \"出发！\" 记录您的路线。";
+"map block label"                   = "地图暂不可用\n\n 找不到合适的路径。 请点击 \"出发！\" 记录您的路线。";
 "map load label"                    = "正在加载地图...";
 
 "alert delete title"                = "是否删除路线？";
@@ -32,7 +32,7 @@
 "lock alert success download"       = "完成";
 
 "alert not download stage title"    = "是否需要下载此路线？";
-"alert not download stage message"  = "当前所见路线为在线版本，在您出发之前，请务必下载。";
+"alert not download stage message"  = "当前路线图示为在线版本，在您出发之前，请务必下载。";
 
 "no free system space alert title"   = "路线下载失败";
-"no free system space alert message" = "内存不足导致无法下载，您可以在设备的设置中进行调整。";
+"no free system space alert message" = "内存不足，无法下载，您可以在设备的设置中进行调整。";

@@ -1,4 +1,4 @@
-"mode 0 title" = "";
+﻿"mode 0 title" = "";
 "mode 1 title" = "设定路线";
 "mode 2 title" = "其他路线";
 
@@ -17,7 +17,7 @@
 "lock alert preparation to start" = "正在初始化路线...";
 
 "lock alert get extended geo track" = "正在加载路线...";
-"lock alert get extended geo track progress format" = "加载—%d%%";
+"lock alert get extended geo track progress format" = "加载进度—%d%%";
 
 "lock alert save geo track" = "正在保存路线...";
 "lock alert save geo track success" = "保存成功";

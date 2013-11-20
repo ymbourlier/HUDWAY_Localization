@@ -1,15 +1,15 @@
-"finish stage win alert title"          = "恭喜！";
+﻿"finish stage win alert title"          = "恭喜！";
 "finish stage not win alert title"      = "抱歉";
 "finish stage win message format"       = "%@ 这是您的最优路径";
 "finish stage not win message format"   = "您所用的时间比%@要长哦";
 
-"finish geo track alert title"          = "信息";
+"finish geo track alert title"          = "行程信息";
 "finish geo track alert message"        = "您已经到达目的地";
 
 "start text"                            = "出发！";
 
 "brightnes label"                       = "亮度";
-"perspective label"                     = "提前预见距离 %@";
+"perspective label"                     = "预见距离 %@";
 
 "cancel button"                         = "取消";
 "skip button"                           = "跳过";

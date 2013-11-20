@@ -1,4 +1,4 @@
-/* 
+﻿/* 
   Social.strings
   HudWay
 
@@ -6,8 +6,8 @@
 
 */
 
-"error #330 message" = "路径分享成功。";
-"error #332 message" = "为了将您的路径发布到HUDWAYAPP.COM，您必须进行此项操作。";
+"error #330 message" = "路径分享成功";
+"error #332 message" = "为了将您的路径发布到HUDWAYAPP.COM，您必须进行此项操作";
 "error #333 message" = "邮件发送失败，请稍后再试";
 
 "action SocialActionPublishStageResult description" = "路径发布中...";

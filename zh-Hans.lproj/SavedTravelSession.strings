@@ -1,5 +1,5 @@
-
-"restore alert title" = "";
-"restore alert message" = "Вы не завершили свою последнюю поездку";
-"delete button" = "Удалить";
-"save button" = "Сохранить";
+﻿
+"restore alert title" = "发现一次未完成的旅程";
+"restore alert message" = "需要保存这次旅程吗?";
+"delete button" = "删除";
+"save button" = "保存";

@@ -1,4 +1,4 @@
-/* 
+﻿/* 
   SettingsController.strings
   CityRacer
 
@@ -7,6 +7,6 @@
 */
 "SettingsController Page_iPhone"  = "设置";
 
-"map settings title" = "地图&方位";
+"map settings title" = "地图和方位";
 
-"auto lock settings description" = "调整自动锁屏设置可以避免屏幕在驾驶时关闭。";
+"auto lock settings description" = "调整自动锁屏设置，可以避免屏幕在驾驶时关闭。";

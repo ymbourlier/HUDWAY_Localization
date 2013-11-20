@@ -1,8 +1,8 @@
-"track table cell title format" = "%@   用时 %@";
+﻿"track table cell title format" = "%@ 用时 %@";
 
 "back button" = "返回";
 
-"my stage results title format" = "路径: %d";
+"my stage results title format" = "我的路径: %d";
 "my stage results description format" = "所用时间： %@ / 平均速度： %@";
 
 "leaderboard wait title" = "请稍候...";
@@ -11,7 +11,7 @@
 "leaderboard title format" = "最优路径 %@";
 "leaderboard description format" = "对于 %@ 的 %d 结果";
 
-"leaderboard not available title" = "无效排行榜";
+"leaderboard not available title" = "无法获取排行榜";
 "leaderboard not available description" = "无法获取数据";
 
-"alert remote service error message" = "网络连接出错导致无法获取数据";
+"alert remote service error message" = "网络连接出错，无法获取数据";

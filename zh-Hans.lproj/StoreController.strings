@@ -1,7 +1,7 @@
-"store title" = "升级";
+﻿"store title" = "升级";
 
 "lock alert get products info" = "正在从AppStore获取信息...";
-"lock alert purchase processing" = "正在购买...";
+"lock alert purchase processing" = "正在处理...";
 "lock alert purchase success" = "购买成功！";
 
 "lock alert save purchases processing" = "正在保存...";
