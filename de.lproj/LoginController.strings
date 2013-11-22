@@ -7,7 +7,7 @@
 "login twitter button title"    = "Mit Twitter anmelden";
 "dont login button"             = "Überspringen";
 
-"email placeholder"             = "E-mail";
+"email placeholder"             = "E-Mail";
 "password placeholder"          = "Passwort";
 
 "lock alert enter in remote service" = "Eingabe...";
