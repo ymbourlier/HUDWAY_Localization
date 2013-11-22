@@ -62,11 +62,11 @@
 "propertyTitleUserPropTypeConfirmPassword"      = "";
 
 "propertyPlaceholderUserPropTypeName"           = "Einen Namen eingeben";
-"propertyPlaceholderUserPropTypeEmail"          = "E-mail";
+"propertyPlaceholderUserPropTypeEmail"          = "E-Mail";
 "propertyPlaceholderUserPropTypePassword"       = "Passwort";
 
 "propertyKetboardPlaceholderUserPropTypeName"       = "Namen eingeben";
-"propertyKetboardPlaceholderUserPropTypeEmail"      = "E-mail eingeben";
+"propertyKetboardPlaceholderUserPropTypeEmail"      = "E-Mail eingeben";
 "propertyKetboardPlaceholderUserPropTypePassword"   = "Passwort eingeben";
 
 //-------------------------------
