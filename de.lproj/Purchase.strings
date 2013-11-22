@@ -17,8 +17,8 @@
 "purchase com.RITLLC.HudWay.NonConsumable.AdFree description" = "HUDWAY ohne Werbeeinblendungen";
 "purchase com.RITLLC.HudWay.NonConsumable.ProMode description" = "Mehr Funktionen? Im \"Pro Modus\" können Sie die Strassen- und Streckenansicht personalisieren, zusätzlich warnt das Programm vor gefährlichen Kurven";
 
-"purchase com.RITLLC.HudWay.NonConsumable.AdFree buy button" = "Werbeeinblendungen deaktivieren für %@";
-"purchase com.RITLLC.HudWay.NonConsumable.ProMode buy button" = "Upgrade auf Pro Modus für %@";
+"purchase com.RITLLC.HudWay.NonConsumable.AdFree buy button" = "Werbung ausblenden %@";
+"purchase com.RITLLC.HudWay.NonConsumable.ProMode buy button" = "Upgrade auf Pro %@";
 
 "alert purchase error #100 message" = "Keine Verbindung zum App Store, prüfen Sie unter Einstellungen > Allgemein > Einschränkungen dass In-App-Käufe aktiviert ist";
 "alert purchase error #105 message" = "Keine Verbindung zum App Store";
