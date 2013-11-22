@@ -7,7 +7,7 @@
 */
 
 "error #401 message" = "Einloggen nicht möglich. Benutzer nicht gefunden";
-"error #402 message" = "Einloggen nicht möglich. Falsche Email oder Passwort";
-"error #410 message" = "Einloggen nicht möglich. Email- oder Passwortfeld leer";
+"error #402 message" = "Einloggen nicht möglich. Falsche E-Mail oder Passwort";
+"error #410 message" = "Einloggen nicht möglich. E-Mail- oder Passwortfeld leer";
 
 "error #500 message" = "Es besteht derzeit keine Internetverbindung";
