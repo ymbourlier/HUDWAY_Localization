@@ -1,11 +1,11 @@
 "mode 0 title" = "";
-"mode 1 title" = "Strecke erstellen";
+"mode 1 title" = "Neue Strecke";
 "mode 2 title" = "Streckenauswahl";
 
 "from placeholder" = "Von";
 "to placeholder" = "Nach";
 
-"create route button" = "Strecke erstellen";
+"create route button" = "Neue Strecke";
 "start ride to route button" = "Start";
 "cancel button" = "Abbrechen";
 
