@@ -8,7 +8,7 @@
 
 "error #330 message" = "Dieser Status ist bereits veröffentlicht";
 "error #332 message" = "Diese ktion ist notwendig, das Ergebnis wurde an hudwayapp.com gesendet";
-"error #333 message" = "Email konnte nicht gesendet werden, versuchen Sie es später";
+"error #333 message" = "E-Mail konnte nicht gesendet werden, versuchen Sie es später";
 
 "action SocialActionPublishStageResult description" = "Streckenergebnis wird veröffnentlicht...";
 
