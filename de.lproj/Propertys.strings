@@ -54,7 +54,7 @@
 
 //-------------------------------
 "propertyTitleUserPropTypeName"                 = "Nutzer";
-"propertyTitleUserPropTypeCreatedStages"        = "Erstellte Strecken";
+"propertyTitleUserPropTypeCreatedStages"        = "Erstellte Routen";
 "propertyTitleUserPropTypeCreatedStagesResults" = "Anzahl der Ergebnisse";
 "propertyTitleUserPropTypeUsedLoginType"        = "Anmelden mit";
 "propertyTitleUserPropTypeEmail"                = "";
