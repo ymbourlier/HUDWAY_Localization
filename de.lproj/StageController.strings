@@ -6,22 +6,22 @@
 
 */
 
-"StageController Page_iPhone"       = "Strecke";
+"StageController Page_iPhone"       = "Route";
 
 "not in start place alert title"    = "Information";
 "not in start place alert text"     = "Sie sind nicht an der Startposition";
 
 "ok button"                         = "Ok";
-"start button"                      = "Strecke starten";
+"start button"                      = "Route starten";
 "cancel button"                     = "Abbrechen";
-"delete button"                     = "Strecke löschen";
+"delete button"                     = "Route löschen";
 "download button"                   = "Download";
 "back button"                       = "Zurück";
 
-"map block label"                   = "Die Karte ist nicht verfügbar... \n\n Keine Ergebnisse für diese Strecke. \"Start\" drücken, um eine Strecke zu erstellen.";
+"map block label"                   = "Die Karte ist nicht verfügbar... \n\n Keine Ergebnisse für diese Route. \"Start\" drücken, um eine Route zu erstellen.";
 "map load label"                    = "Karte wird geladen...";
 
-"alert delete title"                = "Strecke löschen?";
+"alert delete title"                = "Route löschen?";
 "alert delete message"              = "";
 
 "lock alert deleting stage result"  = "Löschen...";
@@ -31,8 +31,8 @@
 "lock alert start save"             = "Speichern...";
 "lock alert success download"       = "Fertig";
 
-"alert not download stage title"    = "Strecke herunterladen?";
-"alert not download stage message"  = "Diese Strecke ist online gespeichert. Die Strecke muss zuerst heruntergeladen werden";
+"alert not download stage title"    = "Route herunterladen?";
+"alert not download stage message"  = "Diese Route ist online gespeichert. Die Route muss zuerst heruntergeladen werden";
 
-"no free system space alert title"   = "Strecke kann nicht heruntergeladen werden";
-"no free system space alert message" = "Nicht genug Speicherplatz zum Laden der Strecke verfügbar. Der Speicherort kann in den Einstellungen geändert werden";
+"no free system space alert title"   = "Route kann nicht heruntergeladen werden";
+"no free system space alert message" = "Nicht genug Speicherplatz zum Laden der Route verfügbar. Der Speicherort kann in den Einstellungen geändert werden";
