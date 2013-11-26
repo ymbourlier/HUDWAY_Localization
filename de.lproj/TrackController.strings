@@ -10,7 +10,7 @@
 "open in browser button"                    = "Öffnen in Safari";
 "delete button title"                       = "Löschen";
 
-"lock alert publish start"                  = "Streckenergebnisse veröffentlichen...";
+"lock alert publish start"                  = "Routenergebnisse veröffentlichen...";
 "lock alert send to facebook start"         = "Teilen auf Facebook...";
 "lock alert send to twitter start"          = "Teilen auf Twitter...";
 "lock alert publish success"                = "Erfolgreich!";
@@ -18,7 +18,7 @@
 "lock alert deleted stage result"           = "Fertig!";
 "lock alert saving track"                   = "Speichern...";
 
-"alert delete title"                        = "Streckenergebnisse löschen?";
-"alert delete message"                      = "Alle Daten zur Strecke werden gelöscht";
+"alert delete title"                        = "Routenergebnisse löschen?";
+"alert delete message"                      = "Alle Daten zur Route werden gelöscht";
 
 "share with friends title"                  = "Teilen";
