@@ -2,7 +2,7 @@
 
 "back button" = "Zurück";
 
-"my stage results title format" = "My results: %d";
+"my stage results title format" = "Meine Ergebnisse: %d";
 "my stage results description format" = "Zeit %@ / durchschn. Geschwindigkeit %@";
 
 "leaderboard wait title" = "Bitte warten...";
