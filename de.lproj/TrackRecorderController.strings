@@ -1,10 +1,10 @@
-"title"                             = "Streckenaufzeichnung";
+"title"                             = "Routenaufzeichnung";
 "time title"                        = "Dauer";
 "speed title"                       = "Geschwindigkeit";
-"distance title"                    = "Entfrnung";
+"distance title"                    = "Entfernung";
 
-"alert delete title"                = "Daten lösche?";
-"alert delete message"              = "Abbrechen wird alle Streckendaten löschen";
+"alert delete title"                = "Daten löschen?";
+"alert delete message"              = "Abbrechen wird alle Routendaten löschen";
 
 "start text"                        = "START!";
 
