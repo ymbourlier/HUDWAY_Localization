@@ -7,12 +7,12 @@
 */
 
 "error #330 message" = "Dieser Status ist bereits veröffentlicht";
-"error #332 message" = "Diese ktion ist notwendig, das Ergebnis wurde an hudwayapp.com gesendet";
+"error #332 message" = "Diese Aktion ist notwendig, das Ergebnis wurde an hudwayapp.com gesendet";
 "error #333 message" = "E-Mail konnte nicht gesendet werden, versuchen Sie es später";
 
-"action SocialActionPublishStageResult description" = "Streckenergebnis wird veröffnentlicht...";
+"action SocialActionPublishStageResult description" = "Routenergebnis wird veröffnentlicht...";
 
-"mail html message format" = "<p>Ich bin mit Unterstützung der HUDWAY App folgende Strecke gefahren</p><p>Name: %@</p><p>Dauer: %@</p><p>Durchschnittsgeschw.: %@</p><p>Höchstgeschw.: %@</p><p>%@: %@</p><p><a href='%@'>Programmdetails unter HUDWAYAPP.com</a></p>";
+"mail html message format" = "<p>Ich bin mit Unterstützung der HUDWAY App folgende Route gefahren</p><p>Name: %@</p><p>Dauer: %@</p><p>Durchschnittsgeschw.: %@</p><p>Höchstgeschw.: %@</p><p>%@: %@</p><p><a href='%@'>Programmdetails unter HUDWAYAPP.com</a></p>";
 "mail subject" = "Betreff";
 "0-60mi" = "0-60mph";
 "0-100km" = "0-100km/h";
