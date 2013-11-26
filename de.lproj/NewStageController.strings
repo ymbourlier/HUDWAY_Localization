@@ -1,7 +1,7 @@
-"page title"    = "New route";
+"page title"    = "Neue Route";
 
-"can't save stage text"             = "Eine Strecke ohne Bezeichnung kann nicht gespeichert werden";
-"alert delete title"                = "Strecke löschen?";
+"can't save stage text"             = "Eine Route ohne Bezeichnung kann nicht gespeichert werden";
+"alert delete title"                = "Route löschen?";
 "alert delete message"              = "";
 
 "cancel button"                     = "Abbrechen";
