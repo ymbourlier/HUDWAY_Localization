@@ -14,8 +14,8 @@
 "cancel button"                         = "Abbrechen";
 "skip button"                           = "Überspringen";
 
-"insert into route description"         = "Fahren Sie auf die Strecke zum starten";
-"go back to route description"          = "Sie haben die Strecke verlassen!";
+"insert into route description"         = "Fahren Sie auf die Route zum starten";
+"go back to route description"          = "Sie haben die Route verlassen!";
 "recalculate route description"         = "Neuberechnung...";
 
 "close alert title"                     = "Vor dem Schliessen auswählen";
