@@ -1,11 +1,11 @@
 "mode 0 title" = "";
-"mode 1 title" = "Neue Strecke";
-"mode 2 title" = "Streckenauswahl";
+"mode 1 title" = "Neue Route";
+"mode 2 title" = "Routenauswahl";
 
 "from placeholder" = "Von";
 "to placeholder" = "Nach";
 
-"create route button" = "Neue Strecke";
+"create route button" = "Neue Route";
 "start ride to route button" = "Start";
 "cancel button" = "Abbrechen";
 
@@ -13,17 +13,17 @@
 "set finish position button" = "Hierher navigieren";
 
 "lock alert get current location" = "Aktuellen Standort laden...";
-"lock alert get geo tracks" = "Strecke erstellen...";
-"lock alert preparation to start" = "Strecke vorbereiten...";
+"lock alert get geo tracks" = "Route berechnen...";
+"lock alert preparation to start" = "Route vorbereiten...";
 
-"lock alert get extended geo track" = "Strecke laden...";
+"lock alert get extended geo track" = "Route laden...";
 "lock alert get extended geo track progress format" = "Fortschritt — %d%%";
 
-"lock alert save geo track" = "Strecke speichern...";
-"lock alert save geo track success" = "Unter Strecken gespeichert";
+"lock alert save geo track" = "Route speichern...";
+"lock alert save geo track success" = "Route gespeichert";
 
-"empty stages description" = "Derzeit sind keine aufgezeichneten Strecken verfügbar\n\nYou Sie können durch antippen des Auswahlfelds eine Strecke erstellen";
-"empty stages button" = "Strecke aufzeichnen!";
+"empty stages description" = "Derzeit sind keine aufgezeichneten Routen verfügbar\n\nYou Sie können durch antippen des Auswahlfelds eine Route erstellen";
+"empty stages button" = "Route aufzeichnen!";
 
 "find address name title" = "      suche...";
 
