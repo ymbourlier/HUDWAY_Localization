@@ -13,10 +13,16 @@
 
 "cancel button"                         = "Отмена";
 "skip button"                           = "Пропустить";
+"recalculation button"                  = "Пересчитать";
+"close button"                          = "Закрыть";
+"hud page button"                       = "HUD";
+"map page button"                       = "Карта";
+"hud button"                            = "HUD режим";
 
 "insert into route description"         = "Войдите на маршрут\nдля старта";
-"go back to route description"          = "Вы ушли с маршрута!";
-"recalculate route description"         = "Расчитываю новый маршрут...";
+"out of route description"              = "Вы ушли\r\nс маршрута";
+"recalculate route description"         = "Пересчет\r\nмаршрута";
+"bad internet connection description"   = "Плохой интернет";
 
 "close alert title"                     = "Выберите действие";
 "cancel button"                         = "Отмена";

@@ -6,5 +6,5 @@
 
 */
 
-"Copyright" = "%@ © RIT LLC. Version %@";
+"Copyright" = "%@ © RIT LLC. Version %@ (%@)";
 "ReportButton" = "Fehler melden";

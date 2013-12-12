@@ -1,6 +1,7 @@
 ﻿"track table cell title format" = "%@ 用时 %@";
 
 "back button" = "返回";
+"cancel button" = "Cancel";
 
 "my stage results title format" = "我的路径: %d";
 "my stage results description format" = "所用时间： %@ / 平均速度： %@";

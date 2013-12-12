@@ -1,2 +1,12 @@
 "email watermark text" = "Введите ваш адрес почты";
-"report watermark text" = "Ошипите ошибку";
+"report watermark text" = "Сообщение";
+"email wrong format" = "неверный формат адреса";
+"lock screen message" = "Идет отправка отчета...";
+"add image" = "Добавить скриншот";
+"send report" = "Отправить";
+"delete image" = "Удалить";
+"footer text" = "Чтобы сделать скриншот, нажмите\nодновременно клавиши «Home»\n и «Выключение» и добавьте\n его из галереи";
+"localized title"= "Сообщить об ошибке";
+"error" = "Неудалось отправить отчет";
+"success" = "Cообщение отправлено. Спасибо";
+"empty data" = "Необходимы эл.почта и сообщение";

@@ -6,5 +6,5 @@
 
 */
 
-"Copyright" = "%@ © RIT LLC. Version %@";
-"ReportButton" = "Report a bug";
+"Copyright" = "%@ © RIT LLC. Version %@ (%@)";
+"ReportButton" = "Bug report";

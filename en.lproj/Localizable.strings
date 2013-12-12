@@ -1,6 +1,7 @@
 "track table cell title format" = "%@ in %@";
 
 "back button" = "Back";
+"cancel button" = "Cancel";
 
 "my stage results title format" = "My results: %d";
 "my stage results description format" = "time %@ / avg. speed %@";

@@ -13,10 +13,16 @@
 
 "cancel button"                         = "Abbrechen";
 "skip button"                           = "Überspringen";
+"recalculation button"                  = "Recalculate";
+"close button"                          = "Close";
+"hud page button"                       = "HUD";
+"map page button"                       = "Map";
+"hud button"                            = "Head-Up Display Mode";
 
 "insert into route description"         = "Fahren Sie auf die Route zum starten";
-"go back to route description"          = "Sie haben die Route verlassen!";
+"out of route description"              = "Sie haben die Route verlassen";
 "recalculate route description"         = "Neuberechnung...";
+"bad internet connection description"   = "Bad internet connection";
 
 "close alert title"                     = "Vor dem Schliessen auswählen";
 "cancel button"                         = "Abbrechen";

@@ -1,4 +1,4 @@
-﻿"finish stage win alert title"          = "恭喜！";
+"finish stage win alert title"          = "恭喜！";
 "finish stage not win alert title"      = "抱歉";
 "finish stage win message format"       = "%@ 这是您的最优路径";
 "finish stage not win message format"   = "您所用的时间比%@要长哦";
@@ -13,10 +13,16 @@
 
 "cancel button"                         = "取消";
 "skip button"                           = "跳过";
+"recalculation button"                  = "Recalculate";
+"close button"                          = "Close";
+"hud page button"                       = "HUD";
+"map page button"                       = "Map";
+"hud button"                            = "Head-Up Display Mode";
 
 "insert into route description"         = "输入路线并出发";
-"go back to route description"          = "您已偏离原定路线！";
+"out of route description"              = "您已偏离原定路线";
 "recalculate route description"         = "重置路线中...";
+"bad internet connection description"   = "Bad internet connection";
 
 "close alert title"                     = "退出前选择";
 "cancel button"                         = "取消";

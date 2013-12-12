@@ -1,6 +1,7 @@
 "track table cell title format" = "%@ за %@";
 
 "back button" = "Назад";
+"cancel button" = "Отмена";
 
 "my stage results title format" = "Мои результаты: %d";
 "my stage results description format" = "время %@ / ср. скор-ть %@";
