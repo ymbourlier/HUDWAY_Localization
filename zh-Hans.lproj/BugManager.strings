@@ -9,4 +9,4 @@
 "localized title"= "错误报告";
 "error" = "发送失败";
 "success" = "发送成功。\n 谢谢您的支持！";
-"empty data" = "电子邮箱和错误报告是必需的。";
+"empty data" = "Message is required";

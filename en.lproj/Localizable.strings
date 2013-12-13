@@ -2,6 +2,8 @@
 
 "back button" = "Back";
 "cancel button" = "Cancel";
+"no button" = "No";
+"yes button" = "Yes";
 
 "my stage results title format" = "My results: %d";
 "my stage results description format" = "time %@ / avg. speed %@";
@@ -16,3 +18,5 @@
 "leaderboard not available description" = "can't get data";
 
 "alert remote service error message" = "Can't get data. Error with Internet connection";
+
+"cancel alert title" = "Cancel?";

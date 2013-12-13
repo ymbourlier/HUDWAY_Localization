@@ -2,6 +2,8 @@
 
 "back button" = "Zurück";
 "cancel button" = "Abbrechen";
+"no button" = "No";
+"yes button" = "Yes";
 
 "my stage results title format" = "Meine Ergebnisse: %d";
 "my stage results description format" = "Zeit %@ / durchschn. Geschwindigkeit %@";
@@ -16,3 +18,5 @@
 "leaderboard not available description" = "Daten können nicht geladen werden";
 
 "alert remote service error message" = "Daten können nicht geladen werden, keine Internetverbindung";
+
+"cancel alert title" = "Cancel?";

@@ -1,7 +1,9 @@
-﻿"track table cell title format" = "%@ 用时 %@";
+"track table cell title format" = "%@ 用时 %@";
 
 "back button" = "返回";
 "cancel button" = "取消";
+"no button" = "No";
+"yes button" = "Yes";
 
 "my stage results title format" = "我的路径: %d";
 "my stage results description format" = "所用时间： %@ / 平均速度： %@";
@@ -16,3 +18,5 @@
 "leaderboard not available description" = "无法获取数据";
 
 "alert remote service error message" = "网络连接出错，无法获取数据";
+
+"cancel alert title" = "Cancel?";

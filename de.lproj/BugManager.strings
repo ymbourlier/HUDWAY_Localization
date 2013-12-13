@@ -9,4 +9,4 @@
 "localized title"= "Fehlerbericht";
 "error" = "Fehlerbericht senden fehlgeschlagen";
 "success" = "Nachricht gesendet.\n Danke";
-"empty data" = "E-Mail und Nachricht nötig";
+"empty data" = "Nachricht nötig";

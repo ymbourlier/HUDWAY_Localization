@@ -9,4 +9,4 @@
 "localized title"= "Bug report";
 "error" = "Error sending falled";
 "success" = "Message send.\n Thank you";
-"empty data" = "Email and message are required";
+"empty data" = "Message is required";
