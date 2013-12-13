@@ -6,7 +6,7 @@
 
 */
 
-"MyStagesMenuItem"  = "Gespeicherte Strecken";
+"MyStagesMenuItem"  = "Gespeicherte Routen";
 "NearbyMenuItem"    = "Umgebungssuche";
 "StoreMenuItem"     = "Upgrade";
 "SettingsMenuItem"  = "Einstellungen";
