@@ -9,7 +9,7 @@
 "in start place label text"         = "您已在出发地";
 "to start label format"             = "%@ 到出发地";
 
-"current location title"            = "实时位置";
+"current location title"            = "当前位置";
 
 "default stage name format"         = "路线 %d";
 

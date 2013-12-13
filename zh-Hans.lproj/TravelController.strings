@@ -12,16 +12,16 @@
 
 "cancel button"                         = "取消";
 "skip button"                           = "跳过";
-"recalculation button"                  = "Recalculate";
-"close button"                          = "Close";
-"hud page button"                       = "HUD";
-"map page button"                       = "Map";
-"hud button"                            = "Head-Up Display Mode";
+"recalculation button"                  = "重置";
+"close button"                          = "关闭";
+"hud page button"                       = "抬头显示HUD";
+"map page button"                       = "地图";
+"hud button"                            = "抬头显示模式";
 
 "insert into route description"         = "输入路线并出发";
 "out of route description"              = "您已偏离原定路线";
 "recalculate route description"         = "重置路线中...";
-"bad internet connection description"   = "Bad internet connection";
+"bad internet connection description"   = "网络信号不好";
 
 "close alert title"                     = "退出前选择";
 "cancel button"                         = "取消";

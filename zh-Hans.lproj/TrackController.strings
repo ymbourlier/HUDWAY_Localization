@@ -11,8 +11,8 @@
 "delete button title"                       = "删除";
 
 "lock alert publish start"                  = "正在发布路径分享";
-"lock alert send to facebook start"         = "正在分享到Facebook";
-"lock alert send to twitter start"          = "正在分享到Facebook";
+"lock alert send to facebook start"         = "正在分享到Facebook...";
+"lock alert send to twitter start"          = "正在分享到Twitter...";
 "lock alert publish success"                = "分享成功！";
 "lock alert deleting stage result"          = "正在删除...";
 "lock alert deleted stage result"           = "完成！";

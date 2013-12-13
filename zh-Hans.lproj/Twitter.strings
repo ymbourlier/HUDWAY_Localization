@@ -6,7 +6,7 @@
 
 */
 
-"post stage tweet format" = "带着HUDWAY开车去 %@ . 距离 %@, 时间 %@, 平均速度 %@ %@";
+"post stage tweet format" = "带着HUDWAY去 %@ . 距离 %@, 用时 %@, 平均速度 %@ %@";
 
 "error #310 message" = "网络连接出错，无法登录Twitter";
 "error #311 message" = "您的设备没有安装Twitter，请安装后登录";

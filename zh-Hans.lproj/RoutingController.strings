@@ -22,7 +22,7 @@
 "lock alert save geo track" = "正在保存路线...";
 "lock alert save geo track success" = "保存成功";
 
-"empty stages description" = "您的设备不存在已记录的路线。您可以通过点击下面的按钮去创建新路线。";
+"empty stages description" = "设备中不存在已记录的路线。您可以通过点击下面的按钮去创建新路线。";
 "empty stages button" = "记录您的路线吧！";
 
 "find address name title" = "      正在搜索...";

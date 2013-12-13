@@ -2,4 +2,4 @@
 
 "CFBundleDisplayName"           = "HUDWAY";
 "CFBundleName"                  = "HUDWAY";
-"NSLocationUsageDescription"    = "此应用将使用GPS来记录您的路线";
+"NSLocationUsageDescription"    = "此应用将通过GPS来记录您的路线";

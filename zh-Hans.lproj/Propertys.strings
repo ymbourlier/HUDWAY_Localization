@@ -41,7 +41,7 @@
 "AutoLock2" = "关闭";
 
 "MapService0" = "谷歌地图";
-"MapService1" = "苹果地图 + 维基世界地图";
+"MapService1" = "苹果地图及维基世界地图";
 
 //-------------------------------
 "propertyTitleSettingsPropTypeCurrentUserName"      = "我的信息";
