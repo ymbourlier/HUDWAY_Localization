@@ -14,7 +14,7 @@
 "start button"                      = "Route starten";
 "cancel button"                     = "Abbrechen";
 "delete button"                     = "Route löschen";
-"download button"                   = "Download";
+"download button"                   = "Herunterladen";
 "back button"                       = "Zurück";
 
 "map block label"                   = "Die Karte ist nicht verfügbar... \n\n Keine Ergebnisse für diese Route. \"Start\" drücken, um eine Route zu erstellen.";
