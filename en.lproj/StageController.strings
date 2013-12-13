@@ -8,7 +8,6 @@
 
 "StageController Page_iPhone"       = "Route";
 
-"not in start place alert title"    = "Information";
 "not in start place alert text"     = "You are not on a start position";
 
 "ok button"                         = "Ok";

@@ -3,7 +3,6 @@
 "finish stage win message format"       = "%@ this is your best route result";
 "finish stage not win message format"   = "Your time is worse than %@";
 
-"finish geo track alert title"          = "Information";
 "finish geo track alert message"        = "You have arrived at the destination";
 
 "start text"                            = "START!";
