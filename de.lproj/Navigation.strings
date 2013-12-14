@@ -9,7 +9,7 @@
 "in start place label text"         = "Sie sind am Startpunkt";
 "to start label format"             = "%@ zum Startpunkt";
 
-"current location title"            = "Derzeitiger Standort";
+"current location title"            = "Aktueller Standort";
 
 "default stage name format"         = "Strecke %d";
 
