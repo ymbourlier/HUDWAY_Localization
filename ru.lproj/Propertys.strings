@@ -17,16 +17,27 @@
 "SpeedUnit1" = "Мили и ярды";
 "SpeedUnit2" = "Мили и футы";
 
-"Countdown0" = "0 секунд";
-"Countdown1" = "3 секунды";
-"Countdown2" = "5 секунд";
-"Countdown3" = "10 секунд";
-"Countdown4" = "15 секунд";
-"Countdown5" = "30 секунд";
-"Countdown6" = "1 минута";
-"Countdown7" = "2 минуты";
-"Countdown8" = "3 минуты";
+"Countdown0" = "3 секунды";
+"Countdown1" = "5 секунд";
+"Countdown2" = "10 секунд";
+"Countdown3" = "15 секунд";
+"Countdown4" = "30 секунд";
+"Countdown5" = "1 минута";
+"Countdown6" = "2 минуты";
+"Countdown7" = "3 минуты";
+"Countdown8" = "4 минуты";
 "Countdown9" = "5 минут";
+
+"CountdownShort0" = "3 сек";
+"CountdownShort1" = "5 сек";
+"CountdownShort2" = "10 сек";
+"CountdownShort3" = "15 сек";
+"CountdownShort4" = "30 сек";
+"CountdownShort5" = "1 мин";
+"CountdownShort6" = "2 мин";
+"CountdownShort7" = "3 мин";
+"CountdownShort8" = "4 мин";
+"CountdownShort9" = "5 мин";
 
 "PublishType0" = "Не опубликован";
 "PublishType1" = "Опубликован";

@@ -17,16 +17,27 @@
 "SpeedUnit1" = "Meilen und Yards";
 "SpeedUnit2" = "Meilen und Fuß";
 
-"Countdown0" = "0 Sekunden";
-"Countdown1" = "3 Sekunden";
-"Countdown2" = "5 Sekunden";
-"Countdown3" = "10 Sekunden";
-"Countdown4" = "15 Sekunden";
-"Countdown5" = "30 Sekunden";
-"Countdown6" = "1 Minute";
-"Countdown7" = "2 Minuten";
-"Countdown8" = "3 Minuten";
+"Countdown0" = "3 Sekunden";
+"Countdown1" = "5 Sekunden";
+"Countdown2" = "10 Sekunden";
+"Countdown3" = "15 Sekunden";
+"Countdown4" = "30 Sekunden";
+"Countdown5" = "1 Minute";
+"Countdown6" = "2 Minuten";
+"Countdown7" = "3 Minuten";
+"Countdown8" = "4 Minuten";
 "Countdown9" = "5 Minuten";
+
+"CountdownShort0" = "3 sek";
+"CountdownShort1" = "5 sek";
+"CountdownShort2" = "10 sek";
+"CountdownShort3" = "15 sek";
+"CountdownShort4" = "30 sek";
+"CountdownShort5" = "1 min";
+"CountdownShort6" = "2 min";
+"CountdownShort7" = "3 min";
+"CountdownShort8" = "4 min";
+"CountdownShort9" = "5 min";
 
 "PublishType0" = "Nein";
 "PublishType1" = "Ja";

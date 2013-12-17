@@ -8,7 +8,8 @@
 
 "StageController Page_iPhone"       = "Маршрут";
 
-"not in start place alert text"     = "Вы стартуете не в точке старта";
+"not in start place alert text"                 = "Вы стартуете не в точке старта";
+"not in start place for countdown alert text"   = "Для старта с отсчетом времени, вы должны находиться в точке старта";
 
 "ok button"                         = "Ok";
 "start button"                      = "Старт";

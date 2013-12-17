@@ -17,16 +17,27 @@
 "SpeedUnit1" = "英里和码";
 "SpeedUnit2" = "英里和英尺";
 
-"Countdown0" = "0 秒";
-"Countdown1" = "3 秒";
-"Countdown2" = "5 秒";
-"Countdown3" = "10 秒";
-"Countdown4" = "15 秒";
-"Countdown5" = "30 秒";
-"Countdown6" = "1 分钟";
-"Countdown7" = "2 分钟";
-"Countdown8" = "3 分钟";
+"Countdown0" = "3 秒";
+"Countdown1" = "5 秒";
+"Countdown2" = "10 秒";
+"Countdown3" = "15 秒";
+"Countdown4" = "30 秒";
+"Countdown5" = "1 分钟";
+"Countdown6" = "2 分钟";
+"Countdown7" = "3 分钟";
+"Countdown8" = "4 分钟";
 "Countdown9" = "5 分钟";
+
+"CountdownShort0" = "3 秒";
+"CountdownShort1" = "5 秒";
+"CountdownShort2" = "10 秒";
+"CountdownShort3" = "15 秒";
+"CountdownShort4" = "30 秒";
+"CountdownShort5" = "1 分钟";
+"CountdownShort6" = "2 分钟";
+"CountdownShort7" = "3 分钟";
+"CountdownShort8" = "4 分钟";
+"CountdownShort9" = "5 分钟";
 
 "PublishType0" = "否";
 "PublishType1" = "是";

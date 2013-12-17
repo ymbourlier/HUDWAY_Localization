@@ -8,7 +8,8 @@
 
 "StageController Page_iPhone"       = "路线";
 
-"not in start place alert text"     = "您不在出发地";
+"not in start place alert text"                 = "您不在出发地";
+"not in start place for countdown alert text"   = "To start with countdown, you must be at the starting point";
 
 "ok button"                         = "好";
 "start button"                      = "出发！";
