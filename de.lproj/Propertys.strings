@@ -28,16 +28,16 @@
 "Countdown8" = "4 Minuten";
 "Countdown9" = "5 Minuten";
 
-"CountdownShort0" = "3 sek";
-"CountdownShort1" = "5 sek";
-"CountdownShort2" = "10 sek";
-"CountdownShort3" = "15 sek";
-"CountdownShort4" = "30 sek";
-"CountdownShort5" = "1 min";
-"CountdownShort6" = "2 min";
-"CountdownShort7" = "3 min";
-"CountdownShort8" = "4 min";
-"CountdownShort9" = "5 min";
+"CountdownShort0" = "3 Sek";
+"CountdownShort1" = "5 Sek";
+"CountdownShort2" = "10 Sek";
+"CountdownShort3" = "15 Sek";
+"CountdownShort4" = "30 Sek";
+"CountdownShort5" = "1 Min";
+"CountdownShort6" = "2 Min";
+"CountdownShort7" = "3 Min";
+"CountdownShort8" = "4 Min";
+"CountdownShort9" = "5 Min";
 
 "PublishType0" = "Nein";
 "PublishType1" = "Ja";
@@ -93,8 +93,8 @@
 "propertyTitleSpecialSectorPropTypeUserAuthorName"  = "Autor";
 "propertyTitleSpecialSectorPropTypeUserWinnerName"  = "Sieger";
 
-"propertyPlaceholderSpecialSectorPropTypeName"          = "Eine Bezeichnung eingeben";
-"propertyPlaceholderSpecialSectorPropTypeDescription"   = "Eine Beschreibung eingeben";
+"propertyPlaceholderSpecialSectorPropTypeName"          = "Bezeichnung eingeben";
+"propertyPlaceholderSpecialSectorPropTypeDescription"   = "Beschreibung eingeben";
 "propertyPlaceholderSpecialSectorPropTypeDistance"      = "";
 "propertyPlaceholderSpecialSectorPropTypeTime"          = "";
 "propertyPlaceholderSpecialSectorPropTypeStartDateTime" = "";
@@ -127,7 +127,7 @@
 "propertyTitleTrackPropTypeAccelerationTo100KmH"    = "0-100 km/h";
 "propertyTitleTrackPropTypeAccelerationTo60MPH"     = "0-60 mph";
 
-"propertyPlaceholderTrackPropTypeName"          = "Einen Namen eingeben";
+"propertyPlaceholderTrackPropTypeName"          = "Namen eingeben";
 "propertyPlaceholderTrackPropTypeDescription"   = "Beschreibung";
 
 "propertyKetboardPlaceholderTrackPropTypeName"          = "Namen eingeben";
