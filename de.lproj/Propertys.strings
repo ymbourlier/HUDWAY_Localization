@@ -118,8 +118,8 @@
 "propertyTitleTrackPropTypeDate"                    = "Datum";
 "propertyTitleTrackPropTypeTime"                    = "Zeit";
 "propertyTitleTrackPropTypeDistance"                = "Entfernung";
-"propertyTitleTrackPropTypeMaxSpeed"                = "Höchstgeschwindigkeit";
-"propertyTitleTrackPropTypeAverageSpeed"            = "Durchschnittsgeschwindigkeit";
+"propertyTitleTrackPropTypeMaxSpeed"                = "Höchst-\n geschwindigkeit";
+"propertyTitleTrackPropTypeAverageSpeed"            = "Durchschnitts-\n geschwindigkeit";
 "propertyTitleTrackPropTypeVehicleType"             = "Fahrzeug";
 "propertyTitleTrackPropTypeDescription"             = "Beschreibung";
 "propertyTitleTrackPropTypeUserAuthorName"          = "Nutzer";
