@@ -72,7 +72,7 @@
 "propertyTitleUserPropTypePassword"             = "";
 "propertyTitleUserPropTypeConfirmPassword"      = "";
 
-"propertyPlaceholderUserPropTypeName"           = "Einen Namen eingeben";
+"propertyPlaceholderUserPropTypeName"           = "Namen eingeben";
 "propertyPlaceholderUserPropTypeEmail"          = "E-Mail";
 "propertyPlaceholderUserPropTypePassword"       = "Passwort";
 
@@ -127,7 +127,7 @@
 "propertyTitleTrackPropTypeAccelerationTo100KmH"    = "0-100 km/h";
 "propertyTitleTrackPropTypeAccelerationTo60MPH"     = "0-60 mph";
 
-"propertyPlaceholderTrackPropTypeName"          = "Namen eingeben";
+"propertyPlaceholderTrackPropTypeName"          = "Namen";
 "propertyPlaceholderTrackPropTypeDescription"   = "Beschreibung";
 
 "propertyKetboardPlaceholderTrackPropTypeName"          = "Namen eingeben";
