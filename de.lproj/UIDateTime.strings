@@ -1,6 +1,6 @@
-"hours short" = "Std.";
-"minutes short" = "Min.";
-"seconds short" = "Sec.";
+"hours short" = "Std";
+"minutes short" = "Min";
+"seconds short" = "Sek";
 "day hour delimiter" = "at";
 
 "mounth 1 short" = "Jan.";
