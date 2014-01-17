@@ -5,3 +5,9 @@
 "lock alert deleting stage"     = "Deleting...";
 
 "empty stages description"      = "It will be shown\nyour routes\n\n\n\nTo create a new\nroute,\npress to \nRecord route";
+
+"loading"    					= "Loading...";
+
+"delete"    					= "Delete";
+
+"menu title"    				= "Select an action";

@@ -5,3 +5,9 @@
 "lock alert deleting stage"     = "Löschen...";
 
 "empty stages description"      = "Angezeigt werden\nIhre Routen\n\n\n\nZum Aufzeichnen einer neue\nRoute,\ndrücken Sie \nRoute aufzeichnen";
+
+"loading"    					= "Loading...";
+
+"delete"    					= "Delete";
+
+"menu title"    				= "Select an action";
