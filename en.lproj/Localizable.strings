@@ -20,3 +20,5 @@
 "alert remote service error message" = "Can't get data. Error with Internet connection";
 
 "cancel alert title" = "Cancel?";
+
+"loading progress label" = "Loading...";

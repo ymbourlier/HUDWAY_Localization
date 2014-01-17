@@ -20,3 +20,5 @@
 "alert remote service error message" = "Не возможно получить данные. Проблема с Интернет-подключением";
 
 "cancel alert title" = "Отменить?";
+
+"loading progress label" = "Загрузка...";
