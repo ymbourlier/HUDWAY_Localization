@@ -2,8 +2,8 @@
 
 "back button" = "Zurück";
 "cancel button" = "Abbrechen";
-"no button" = "No";
-"yes button" = "Yes";
+"no button" = "Nein";
+"yes button" = "Ja";
 
 "my stage results title format" = "Meine Ergebnisse: %d";
 "my stage results description format" = "Zeit %@ / durchschn. Geschwindigkeit %@";
@@ -19,6 +19,6 @@
 
 "alert remote service error message" = "Daten können nicht geladen werden, keine Internetverbindung";
 
-"cancel alert title" = "Cancel?";
+"cancel alert title" = "Abbrechen?";
 
-"loading progress label" = "Loading...";
+"loading progress label" = "Laden...";
