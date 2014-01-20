@@ -10,6 +10,6 @@
 "error" = "Fehlerbericht senden fehlgeschlagen";
 "success" = "Nachricht gesendet.\n Danke";
 "empty data" = "Nachricht nötig";
-"footer text for android" = "To take a screenshot, press simultaneously\n the «Volume-» and «Shutdown»\n and add it to the gallery";
-"footer text for android less 4" = "To take screenshot see documentation for your device";
-"error getting logs" = "Error getting logs";
+"footer text for android" = "Für einen Screenshot gleichzeitig\n den «Lautstärke-» and «Einschalter» drücken\n und das Bild der Gallerie hinzufügen.";
+"footer text for android less 4" = "In der Bedienungsanleitung nachschlagen, wie ein Screenshot erstellt wird.";
+"error getting logs" = "Fehler beim Log-Abruf";
