@@ -6,6 +6,7 @@
 "user disabled location service alert title" = "Route kann nicht aufgzeichnet werden";
 "user disabled location service for application alert message" = "Gewähren Sie der App Zugriff auf die Ortugsdienste. Gehen Sie auf die Einstellungen der Ortungsdienste, suchen Sie  'Check My Race' und schalten Sie diese 'Ein'";
 "user disabled location service for device alert message" = "Ortungsdienste sind deaktiviert. Gehen Sie in den Einstellungen auf Ortungsdienste und schalten Sie diese ein.";
+"user disabled location service for device alert message android" = "The Location services is switched off. Go to Location services Settings and switch it 'On' for all services.";
 
 "no free system space alert title" = "Route kann nicht aufgezeichnet werden";
 "no free system space alert message" = "Nicht genug Speicherplatz zum aufzeichnen der Route. Der Speicherort kann in den Einstellungen konfigurert werden";

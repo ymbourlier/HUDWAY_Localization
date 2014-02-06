@@ -6,6 +6,7 @@
 "user disabled location service alert title" = "Не возможно записать маршрут";
 "user disabled location service for application alert message" = "Вы запретили использование геолокации для этого приложения. Зайдити в настройки устройства в раздел \"Геолокация\" и включите ее для приложения.";
 "user disabled location service for device alert message" = "Геолокация отключена на устройстве. Зайдити в настройки устройства в раздел \"Геолокация\" и включите ее.";
+"user disabled location service for device alert message android" = "Геолокация отключена на устройстве. Зайдити в настройки устройства в раздел \"Местоположение\" и включите все геолокационные службы.";
 
 "no free system space alert title" = "Не удается записать маршрут";
 "no free system space alert message" = "Для записи маршрута недостаточно памяти. Местом хранения можно управлять в настройках";

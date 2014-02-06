@@ -6,6 +6,7 @@
 "user disabled location service alert title" = "无法记录路线";
 "user disabled location service for application alert message" = "HUDWAY需要此设备的定位权限，请打开定位功能。";
 "user disabled location service for device alert message" = "定位功能处于关闭状态，请调整您的手机设置。";
+"user disabled location service for device alert message android" = "The Location services is switched off. Go to Location services Settings and switch it 'On' for all services.";
 
 "no free system space alert title" = "无法记录路线";
 "no free system space alert message" = "存储空间不足，请调整您的手机设置";
