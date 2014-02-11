@@ -24,10 +24,10 @@
 "alert purchase error #105 message" = "Не могу подлючится к App Store";
 
 "purchase sku_ads_disabled title" = "Отключение рекламы";
-"purchase sku_pro_mode_enabled title" = "Pro режим";
+"purchase sku_pro_mode_enabled title" = "PRO режим";
 
 "purchase sku_ads_disabled description" = "Наслаждайтесь HUDWAY без рекламы и получите дополнительное место на экране";
-"purchase sku_pro_mode_enabled description" = "Профессиональный вид дороги, анализ и подкраска поворотов и другое в режиме ПРО";
+"purchase sku_pro_mode_enabled description" = "Профессиональный вид дороги, анализ и подкраска поворотов и другое в режиме PRO";
 
 "purchase sku_ads_disabled buy button" = "Отключить рекламу за %@";
-"purchase sku_pro_mode_enabled buy button" = "Перейти в Pro режим за %@";
+"purchase sku_pro_mode_enabled buy button" = "Перейти в PRO режим за %@";

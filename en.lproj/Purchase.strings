@@ -24,10 +24,10 @@
 "alert purchase error #105 message" = "Can't connect to App Store";
 
 "purchase sku_ads_disabled title" = "Ad Free";
-"purchase sku_pro_mode_enabled title" = "Pro Mode";
+"purchase sku_pro_mode_enabled title" = "PRO Mode";
 
 "purchase sku_ads_disabled description" = "Enjoy HUDWAY without Ads and get an extra place on the tracking screen";
-"purchase sku_pro_mode_enabled description" = "Customized view of the road, dangerous turns alerts and more in Pro mode";
+"purchase sku_pro_mode_enabled description" = "Customized view of the road, dangerous turns alerts and more...";
 
-"purchase sku_ads_disabled buy button" = "Turn off ads for %@";
-"purchase sku_pro_mode_enabled buy button" = "Upgrade to Pro mode for %@";
+"purchase sku_ads_disabled buy button" = "Turn off Ads for %@";
+"purchase sku_pro_mode_enabled buy button" = "Go PRO for %@";

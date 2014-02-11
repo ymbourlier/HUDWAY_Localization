@@ -14,3 +14,6 @@
 "lock alert enter in facebook"  = "Facebook Daten eingeben...";
 "lock alert enter in twitter"   = "Twitter Daten eingeben...";
 "lock alert success login"      = "Anmeldung erfolgreich!";
+
+"hudway registration url" = "http://hudwayapp.com/en/user/registration";
+"hudway recovery password url" = "http://hudwayapp.com/en/user/recoveryPassword";

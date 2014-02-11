@@ -11,3 +11,5 @@
 "delete button"    				= "Löschen";
 
 "menu title"    				= "Aktion auswählen";
+
+"empty stages description other"      = "This is the place\nwhere your routes\nwill be shown\n\n\nPress \"Record route\"\nto create new route";

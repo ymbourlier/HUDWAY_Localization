@@ -22,3 +22,5 @@
 "alert delete message"                      = "Произойдет удаление всех данных проезда по маршруту";
 
 "share with friends title"                  = "Делитесь с друзьями";
+
+"open in browser button for android"        = "Открыть в браузере";
