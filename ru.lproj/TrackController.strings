@@ -8,6 +8,7 @@
 "republish to remote service button"        = "Переотправить на hudwayapp.com";
 "send to email button"                      = "Отправить по эл. почте";
 "open in browser button"                    = "Открыть в Сафари";
+"open in browser button android"            = "Открыть в браузере";
 "delete button title"                       = "Удалить";
 
 "lock alert publish start"                  = "Публикация маршрута...";

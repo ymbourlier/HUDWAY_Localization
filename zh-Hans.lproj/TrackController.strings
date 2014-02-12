@@ -8,6 +8,7 @@
 "republish to remote service button"        = "重新发送到HUDWAYAPP.COM";
 "send to email button"                      = "通过电子邮件分享";
 "open in browser button"                    = "在Safari中打开";
+"open in browser button android"            = "在Browser中打开";
 "delete button title"                       = "删除";
 
 "lock alert publish start"                  = "正在发布路径分享";

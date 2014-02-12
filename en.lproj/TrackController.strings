@@ -8,6 +8,7 @@
 "republish to remote service button"        = "Resend to hudwayapp.com";
 "send to email button"                      = "Share via e-mail";
 "open in browser button"                    = "Open in Safari";
+"open in browser button android"            = "Open in Browser";
 "delete button title"                       = "Delete";
 
 "lock alert publish start"                  = "Publishing route results...";
