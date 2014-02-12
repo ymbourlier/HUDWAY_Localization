@@ -1,4 +1,4 @@
-"alert create route error #0 message" = "Keine Internetverbindung, bitte versuchen Sie es später";
-"alert create route error #1 message" = "Keine Verbindung zum Geo-Server, bitte versuchen Sie es später";
-"alert create route error #3 message" = "Es kann keine Route erstellt werden, Sie haben keine Start- oder Zieladresse eingegeben";
-"alert create route error #4 message" = "Für diese Start- und/oder Zielangaben kann keine Route erstellt werden";
+"error #0 message" = "Keine Internetverbindung, bitte versuchen Sie es später";
+"error #1 message" = "Keine Verbindung zum Geo-Server, bitte versuchen Sie es später";
+"error #3 message" = "Es kann keine Route erstellt werden, Sie haben keine Start- oder Zieladresse eingegeben";
+"error #4 message" = "Für diese Start- und/oder Zielangaben kann keine Route erstellt werden";
