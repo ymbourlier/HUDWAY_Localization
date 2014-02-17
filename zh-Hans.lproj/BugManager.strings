@@ -10,6 +10,6 @@
 "error" = "发送失败";
 "success" = "发送成功。\n 谢谢您的支持！";
 "empty data" = "Message is required";
-"footer text for android" = "To take a screenshot, press simultaneously\n the «Volume-» and «Shutdown»\n and add it to the gallery";
+"footer text for android" = "To take a screenshot, hold down simultaneously\n the «Volume-» and «Shutdown»\n and add it to the gallery";
 "footer text for android less 4" = "To take screenshot see documentation for your device";
 "error getting logs" = "Error getting logs";
