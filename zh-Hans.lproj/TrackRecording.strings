@@ -12,3 +12,5 @@
 "no free system space alert message" = "存储空间不足，请调整您的手机设置";
 
 "can't write empty track alert" = "距离过短，无法记录路线";
+
+"settings button android" = "Settings";

@@ -12,3 +12,5 @@
 "no free system space alert message" = "Nicht genug Speicherplatz zum aufzeichnen der Route. Der Speicherort kann in den Einstellungen konfigurert werden";
 
 "can't write empty track alert" = "Keine Entfernung, Routenergebnisse können nicht gespeichert werden";
+
+"settings button android" = "Settings";

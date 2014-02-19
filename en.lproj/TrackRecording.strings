@@ -12,3 +12,5 @@
 "no free system space alert message" = "To record the route is not enough memory. Storage location can be controlled in the settings";
 
 "can't write empty track alert" = "No distance, route results can't be saved";
+
+"settings button android" = "Settings";
