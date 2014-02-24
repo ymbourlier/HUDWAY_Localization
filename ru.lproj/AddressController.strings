@@ -9,3 +9,6 @@
 "empty addresses description" = "Адрес не найден";
 
 "history addresses title" = "Частые адреса";
+
+"voice recording description" = "Начните проговаривать\nадрес";
+"voice recognition description" = "Обработка голоса";

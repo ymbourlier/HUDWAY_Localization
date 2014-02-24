@@ -9,3 +9,6 @@
 "empty addresses description" = "Address not found";
 
 "history addresses title" = "Frequent addresses";
+
+"voice recording description" = "Start talking\naddress";
+"voice recognition description" = "Voice recognition...";

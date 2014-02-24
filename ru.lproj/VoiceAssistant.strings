@@ -1,0 +1,19 @@
+/* 
+  VoiceAssistant.strings
+  HudWay
+
+  Created by Данил on 18.02.14.
+
+*/
+"1 maneuvre"="%d %@ %@ %@";
+"1 to 1" = "%d %@ %@ %@ in %@ %@ %@";
+"left turn" = "левый";
+"rigth turn" = "правый";
+"easy" = "простой";
+"normal" = "средний";
+"hard" = "сложный";
+"short" = "";
+"long" = "длинный";
+"very long" = "очень длинный";
+"say address" = "скажите адрес";
+"finish" = "Вы прибыли в точку назначения";

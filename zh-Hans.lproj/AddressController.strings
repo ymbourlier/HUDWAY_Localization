@@ -9,3 +9,6 @@
 "empty addresses description" = "找不到该地址，请重新输入。";
 
 "history addresses title" = "常用地址";
+
+"voice recording description" = "Start talking\naddress";
+"voice recognition description" = "Voice recognition...";

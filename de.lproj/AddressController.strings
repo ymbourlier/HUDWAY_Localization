@@ -9,3 +9,6 @@
 "empty addresses description" = "Adresse nicht gefunden";
 
 "history addresses title" = "Bisher gewählte Adressen";
+
+"voice recording description" = "Start talking\naddress";
+"voice recognition description" = "Voice recognition...";

@@ -18,6 +18,7 @@
 "leaderboard not available description" = "can't get data";
 
 "alert remote service error message" = "Can't get data. Error with Internet connection";
+"alert exit message android" = "Do you want to exit?";
 
 "cancel alert title" = "Cancel?";
 

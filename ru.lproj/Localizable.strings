@@ -18,6 +18,7 @@
 "leaderboard not available description" = "не могу получить данные";
 
 "alert remote service error message" = "Не возможно получить данные. Проблема с Интернет-подключением";
+"alert exit message android" = "Выйти из приложения?";
 
 "cancel alert title" = "Отменить?";
 
