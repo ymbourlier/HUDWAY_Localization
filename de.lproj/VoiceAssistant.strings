@@ -7,13 +7,13 @@
 */
 "1 maneuvre"="%d %@ %@ %@";
 "1 to 1" = "%d %@ %@ %@ in %@ %@ %@";
-"left turn" = "left";
-"rigth turn" = "right";
-"easy" = "easy";
+"left turn" = "links";
+"rigth turn" = "rechts";
+"easy" = "leicht";
 "normal" = "normal";
-"hard" = "hard";
+"hard" = "schwierig";
 "short" = "";
-"long" = "long";
-"very long" = "very long";
-"say address" = "say address";
-"finish" = "You have arrived at the destination";
+"long" = "lang";
+"very long" = "sehr lang";
+"say address" = "Adresse ansagen";
+"finish" = "Sie haben das Ziel erreicht";
