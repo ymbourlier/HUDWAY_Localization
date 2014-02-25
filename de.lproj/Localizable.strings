@@ -18,7 +18,7 @@
 "leaderboard not available description" = "Daten können nicht geladen werden";
 
 "alert remote service error message" = "Daten können nicht geladen werden, keine Internetverbindung";
-"alert exit message android" = "Do you want to exit?";
+"alert exit message android" = "Soll der Vorgang abgebrochen werden?";
 
 "cancel alert title" = "Abbrechen?";
 
