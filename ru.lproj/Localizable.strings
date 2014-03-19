@@ -25,3 +25,5 @@
 "loading progress label" = "Загрузка...";
 
 "ok button" = "OK";
+
+"bad internet connection description" = "Вероятно, у Вас медленное интернет-соединение";
