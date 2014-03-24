@@ -1,1 +1,3 @@
-"error #100 message" = "Error in Internet connection, please retry later";
+"error #100 message" = "Can't connect to the server. Please try again later";
+
+"bad internet connection description" = "Server doesn't respond";
