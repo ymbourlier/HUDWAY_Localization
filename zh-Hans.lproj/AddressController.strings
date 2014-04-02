@@ -1,6 +1,7 @@
-﻿"page title" = "设定路线";
+"page title" = "设定路线";
 
 "back button" = "返回";
+"cancel button" = "Cancel";
 
 "search address placeholer" = "输入地址";
 
@@ -10,5 +11,5 @@
 
 "history addresses title" = "常用地址";
 
-"voice recording description" = "Start talking\naddress";
-"voice recognition description" = "Voice recognition...";
+"voice recording description" = "Speak...";
+"voice recognition description" = "Processing...";

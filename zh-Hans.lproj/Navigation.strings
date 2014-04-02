@@ -15,3 +15,5 @@
 
 "start point title" = "出发地";
 "finish point title" = "目的地";
+
+"unknown distance" = "--";

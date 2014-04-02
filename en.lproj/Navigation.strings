@@ -15,3 +15,5 @@
 
 "start point title" = "Start";
 "finish point title" = "End";
+
+"unknown distance" = "--";

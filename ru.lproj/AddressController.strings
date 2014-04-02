@@ -1,6 +1,7 @@
 "page title" = "Построение маршрута";
 
 "back button" = "Назад";
+"cancel button" = "Отмена";
 
 "search address placeholer" = "Введите адрес";
 
@@ -10,5 +11,5 @@
 
 "history addresses title" = "Частые адреса";
 
-"voice recording description" = "Начните проговаривать\nадрес";
-"voice recognition description" = "Обработка голоса";
+"voice recording description" = "Говорите...";
+"voice recognition description" = "Обработка...";

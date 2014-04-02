@@ -8,5 +8,6 @@
 "SettingsController Page_iPhone"  = "Einstellungen";
 
 "map settings title" = "KARTENAUSWAHL";
+"voice assistant settings title" = "VOICE ASSISTANT";
 
 "auto lock settings description" = "Einstellungen um zu vermeiden, dass der Bildschirm während der Fahrt deaktiviert wird";

@@ -1,19 +1,30 @@
-/* 
-  VoiceAssistant.strings
-  HudWay
+"straight direction" = "прямо";
+"left direction" = "левый";
+"rigth direction" = "правый";
 
-  Created by Данил on 18.02.14.
+"easy difficult" = "простой";
+"medium difficult" = "средний";
+"hard difficult" = "сложный";
+"perpendicular difficult" = "90 градусов";
+"sharp difficult" = "острый";
+"uturn difficult" = "разворот";
 
-*/
-"1 maneuvre"="%d %@ %@ %@";
-"1 to 1" = "%d %@ %@ %@ in %@ %@ %@";
-"left turn" = "левый";
-"rigth turn" = "правый";
-"easy" = "простой";
-"normal" = "средний";
-"hard" = "сложный";
-"short" = "";
-"long" = "длинный";
-"very long" = "очень длинный";
-"say address" = "скажите адрес";
-"finish" = "Вы прибыли в точку назначения";
+"short duration" = "";
+"long duration" = "длинный";
+"very long duration" = "очень длинный";
+
+"kilometer" = "километр";
+"2-4 kilometers" = "километра";
+"kilometers" = "километров";
+"meters" = "метров";
+"mile" = "милю";
+"2-4 miles" = "мили";
+"miles" = "миль";
+"yards" = "ярдов";
+"foots" = "футов";
+"connection between units" = "и";
+
+"connection between maneuvers" = " и затем ";
+"to finish description" = "до точки назначения";
+"in finish" = "Вы прибыли в точку назначения";
+"big maneuvers bundle description" = " и затем, внимание, сложная связка поворотов";

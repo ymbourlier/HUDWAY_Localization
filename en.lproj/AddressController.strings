@@ -1,6 +1,7 @@
 "page title" = "Make a Route";
 
 "back button" = "Back";
+"cancel button" = "Cancel";
 
 "search address placeholer" = "Enter address";
 
@@ -10,5 +11,5 @@
 
 "history addresses title" = "Frequent addresses";
 
-"voice recording description" = "Start talking\naddress";
-"voice recognition description" = "Voice recognition...";
+"voice recording description" = "Speak...";
+"voice recognition description" = "Processing...";

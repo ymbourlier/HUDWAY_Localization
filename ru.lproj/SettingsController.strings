@@ -8,5 +8,6 @@
 "SettingsController Page_iPhone"  = "Настройки";
 
 "map settings title" = "КАРТЫ И МАРШРУТИЗАЦИЯ";
+"voice assistant settings title" = "ГОЛОСОВОЙ ПОМОЩНИК";
 
 "auto lock settings description" = "Настройте Автоблокировку, чтобы экран не отключался во время движения";

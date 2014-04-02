@@ -54,12 +54,17 @@
 "MapService0" = "Google";
 "MapService1" = "Apple + Open Street Map";
 
+"VoiceAssistantLevel0" = "Простая";
+"VoiceAssistantLevel1" = "Средняя";
+"VoiceAssistantLevel2" = "Высокая";
+
 //-------------------------------
 "propertyTitleSettingsPropTypeCurrentUserName"      = "Мой профиль";
 "propertyTitleSettingsPropTypeSpeedUnits"           = "Ед. измерения";
 "propertyTitleSettingsPropTypeCountdown"            = "Обратный отсчёт";
 "propertyTitleSettingsPropTypeAutoLock"             = "Автоблокировка";
 "propertyTitleSettingsPropTypeMapService"           = "Карты и маршрутизация";
+"propertyTitleSettingsPropTypeVoiceAssistantLevel"  = "Детализация";
 
 "propertyPlaceholderSettingsPropTypeCurrentUserName"= "";
 

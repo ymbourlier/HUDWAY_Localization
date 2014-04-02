@@ -15,5 +15,5 @@
 "lock alert enter in twitter"   = "请输入您的Twitter帐号...";
 "lock alert success login"      = "登录成功！";
 
-"hudway registration url" = "http://hudwayapp.com/zh_cn/user/registration";
-"hudway recovery password url" = "http://hudwayapp.com/zh_cn/user/recoveryPassword";
+"hudway registration url"       = "http://hudwayapp.com/zh_cn/user/registration";
+"hudway recovery password url"  = "http://hudwayapp.com/zh_cn/user/recoveryPassword";

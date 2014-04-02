@@ -15,3 +15,5 @@
 
 "start point title" = "Начало";
 "finish point title" = "Конец";
+
+"unknown distance" = "--";
