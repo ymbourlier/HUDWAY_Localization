@@ -17,8 +17,8 @@
 "SpeedUnit1" = "Meilen und Yards";
 "SpeedUnit2" = "Meilen und Fuß";
 
-"HUDWAYGlassDevice0" = "Off";
-"HUDWAYGlassDevice1" = "On";
+"HUDWAYGlassDevice0" = "Disabled";
+"HUDWAYGlassDevice1" = "Enabled";
 
 "Countdown0" = "3 Sekunden";
 "Countdown1" = "5 Sekunden";

@@ -17,8 +17,8 @@
 "SpeedUnit1" = "Мили и ярды";
 "SpeedUnit2" = "Мили и футы";
 
-"HUDWAYGlassDevice0" = "Выкл";
-"HUDWAYGlassDevice1" = "Вкл";
+"HUDWAYGlassDevice0" = "Выключен";
+"HUDWAYGlassDevice1" = "Включен";
 
 "Countdown0" = "3 секунды";
 "Countdown1" = "5 секунд";

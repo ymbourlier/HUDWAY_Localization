@@ -17,8 +17,8 @@
 "SpeedUnit1" = "英里和码";
 "SpeedUnit2" = "英里和英尺";
 
-"HUDWAYGlassDevice0" = "Off";
-"HUDWAYGlassDevice1" = "On";
+"HUDWAYGlassDevice0" = "Disabled";
+"HUDWAYGlassDevice1" = "Enabled";
 
 "Countdown0" = "3 秒";
 "Countdown1" = "5 秒";
