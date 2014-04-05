@@ -17,6 +17,9 @@
 "SpeedUnit1" = "Мили и ярды";
 "SpeedUnit2" = "Мили и футы";
 
+"HUDWAYGlassDevice0" = "Выкл";
+"HUDWAYGlassDevice1" = "Вкл";
+
 "Countdown0" = "3 секунды";
 "Countdown1" = "5 секунд";
 "Countdown2" = "10 секунд";
@@ -61,6 +64,7 @@
 //-------------------------------
 "propertyTitleSettingsPropTypeCurrentUserName"      = "Мой профиль";
 "propertyTitleSettingsPropTypeSpeedUnits"           = "Ед. измерения";
+"propertyTitleSettingsPropTypeHUDWAYGlassDeviceEnabled" = "iMercuryHUD";
 "propertyTitleSettingsPropTypeCountdown"            = "Обратный отсчёт";
 "propertyTitleSettingsPropTypeAutoLock"             = "Автоблокировка";
 "propertyTitleSettingsPropTypeMapService"           = "Карты и маршрутизация";

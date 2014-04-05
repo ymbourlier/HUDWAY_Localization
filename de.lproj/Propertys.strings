@@ -17,6 +17,9 @@
 "SpeedUnit1" = "Meilen und Yards";
 "SpeedUnit2" = "Meilen und Fuß";
 
+"HUDWAYGlassDevice0" = "Off";
+"HUDWAYGlassDevice1" = "On";
+
 "Countdown0" = "3 Sekunden";
 "Countdown1" = "5 Sekunden";
 "Countdown2" = "10 Sekunden";
@@ -61,6 +64,7 @@
 //-------------------------------
 "propertyTitleSettingsPropTypeCurrentUserName"      = "Meine Daten";
 "propertyTitleSettingsPropTypeSpeedUnits"           = "Einheiten";
+"propertyTitleSettingsPropTypeHUDWAYGlassDeviceEnabled" = "iMercuryHUD";
 "propertyTitleSettingsPropTypeCountdown"            = "Countdown";
 "propertyTitleSettingsPropTypeAutoLock"             = "Auto-Lock";
 "propertyTitleSettingsPropTypeMapService"           = "Kartenauswahl";

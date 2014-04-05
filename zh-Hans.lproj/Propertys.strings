@@ -17,6 +17,9 @@
 "SpeedUnit1" = "英里和码";
 "SpeedUnit2" = "英里和英尺";
 
+"HUDWAYGlassDevice0" = "Off";
+"HUDWAYGlassDevice1" = "On";
+
 "Countdown0" = "3 秒";
 "Countdown1" = "5 秒";
 "Countdown2" = "10 秒";
@@ -61,6 +64,7 @@
 //-------------------------------
 "propertyTitleSettingsPropTypeCurrentUserName"      = "我的信息";
 "propertyTitleSettingsPropTypeSpeedUnits"           = "单位";
+"propertyTitleSettingsPropTypeHUDWAYGlassDeviceEnabled" = "iMercuryHUD";
 "propertyTitleSettingsPropTypeCountdown"            = "倒计时";
 "propertyTitleSettingsPropTypeAutoLock"             = "自动锁屏";
 "propertyTitleSettingsPropTypeMapService"           = "地图和方位";
