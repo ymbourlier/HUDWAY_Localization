@@ -1,6 +1,4 @@
-"mode 0 title" = "";
-"mode 1 title" = "Neue Route";
-"mode 2 title" = "Routenauswahl";
+"RoutingController Page_iPhone" = "Neue Route";
 
 "from placeholder" = "Von";
 "to placeholder" = "Nach";

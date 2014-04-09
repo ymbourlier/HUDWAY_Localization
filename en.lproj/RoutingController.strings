@@ -1,6 +1,4 @@
-"mode 0 title" = "";
-"mode 1 title" = "Build a route";
-"mode 2 title" = "Route selection";
+"RoutingController Page_iPhone" = "Build a route";
 
 "from placeholder" = "From";
 "to placeholder" = "To";

@@ -57,14 +57,13 @@
 "MapService0" = "Google";
 "MapService1" = "Apple + Open Street Map";
 
-"VoiceAssistantLevel0" = "Easy";
-"VoiceAssistantLevel1" = "Medium";
-"VoiceAssistantLevel2" = "Hard";
+"VoiceAssistantLevel0" = "Say all";
+"VoiceAssistantLevel1" = "Medium turns and steeper";
+"VoiceAssistantLevel2" = "Only hard and steeper";
 
 //-------------------------------
 "propertyTitleSettingsPropTypeCurrentUserName"      = "My Profile";
 "propertyTitleSettingsPropTypeSpeedUnits"           = "Units";
-"propertyTitleSettingsPropTypeHUDWAYGlassDeviceEnabled" = "iMercuryHUD";
 "propertyTitleSettingsPropTypeCountdown"            = "Countdown";
 "propertyTitleSettingsPropTypeAutoLock"             = "Auto-Lock";
 "propertyTitleSettingsPropTypeMapService"           = "Maps and direction";

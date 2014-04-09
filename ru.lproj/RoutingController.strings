@@ -1,6 +1,4 @@
-"mode 0 title" = "";
-"mode 1 title" = "Создание маршрута";
-"mode 2 title" = "Выбор маршрута";
+"RoutingController Page_iPhone" = "Создание маршрута";
 
 "from placeholder" = "Введите адрес";
 "to placeholder" = "Введите адрес";

@@ -2,23 +2,33 @@
 "loading product price title" = "Получаю цену...";
 
 "need purchase alert title" = "Действие не доступно";
-"need purchase alert message for product com.RITLLC.HudWay.NonConsumable.ProMode" = "Для этого действия необходимо купить дополнительное улучшение \"Pro Режим\"";
+"need purchase alert message for product com.RITLLC.HudWay.NonConsumable.DrawRouteFeatures" = "Для этого действия необходимо купить дополнительное улучшение \"Pro Режим\"";
+"need purchase alert message for product com.RITLLC.HudWay.NonConsumable.VoiceAssistant" = "Для этого действия необходимо купить дополнительное улучшение \"Голосовой ассистент\"";
 
-"promotion alert title" = "PRO режим";
-"promotion alert message" = "Функции PRO режима не куплены. Демонстрация\nрежима — 5 минут";
+"promotion alert title for product com.RITLLC.HudWay.NonConsumable.DrawRouteFeatures" = "PRO режим";
+"promotion alert message for product com.RITLLC.HudWay.NonConsumable.DrawRouteFeatures" = "Функции PRO режима не куплены. Демонстрация\nрежима — 5 минут";
+
+"promotion alert title for product com.RITLLC.HudWay.NonConsumable.VoiceAssistant" = "Голосовой ассистент";
+"promotion alert message for product com.RITLLC.HudWay.NonConsumable.VoiceAssistant" = "Голосовой ассистент не куплен. Демонстрация\nрежима — 5 минут";
 
 "cancel button" = "Отмена";
 "store button" = "Купить";
 "accept promotion button" = "OK";
 
 "purchase com.RITLLC.HudWay.NonConsumable.AdFree title" = "Отключение рекламы";
-"purchase com.RITLLC.HudWay.NonConsumable.ProMode title" = "Pro режим";
+"purchase com.RITLLC.HudWay.NonConsumable.VoiceAssistant title" = "Голосовой ассистент (Штурман)";
+"purchase com.RITLLC.HudWay.NonConsumable.DrawRouteFeatures title" = "Плюс +";
+"purchase com.RITLLC.HudWay.NonConsumable.ProMode title" = "Пакет ПРО (всё в одном)";
 
 "purchase com.RITLLC.HudWay.NonConsumable.AdFree description" = "Наслаждайтесь HUDWAY не видя никаких внешних объявлений и получите дополнительное поле для данных на экране";
-"purchase com.RITLLC.HudWay.NonConsumable.ProMode description" = "С «Pro режимом» вы сможете настроить внешний вид дороги и поворотов, а также приложение предупредит вас об опасном повороте";
+"purchase com.RITLLC.HudWay.NonConsumable.VoiceAssistant description" = "Голосовой ассистент Hudway предупредит вас не только о развязках, но и всех значимых изгибах дороги на которые следует обратить внимание";
+"purchase com.RITLLC.HudWay.NonConsumable.DrawRouteFeatures description" = "Настройте внешний вид дороги и поворотов в режиме HUD. Все новые стили будут доступны с этим улучшением";
+"purchase com.RITLLC.HudWay.NonConsumable.ProMode description" = "Получите все улучшения одной покупкой по специальной цене. Все новые покупки будут автоматически добавлены к этому пакету бесплатно";
 
 "purchase com.RITLLC.HudWay.NonConsumable.AdFree buy button" = "Отключить рекламу за %@";
-"purchase com.RITLLC.HudWay.NonConsumable.ProMode buy button" = "Перейти в Pro режим за %@";
+"purchase com.RITLLC.HudWay.NonConsumable.VoiceAssistant buy button" = "Купить за %@";
+"purchase com.RITLLC.HudWay.NonConsumable.DrawRouteFeatures buy button" = "Купить за %@";
+"purchase com.RITLLC.HudWay.NonConsumable.ProMode buy button" = "Купить за %@";
 
 "alert purchase error #100 message" = "Не могу подлючится к App Store, проверьте в Настроки > Основные > Ограничения что встроенные покупки разрешены";
 "alert purchase error #105 message" = "Не могу подлючится к App Store";

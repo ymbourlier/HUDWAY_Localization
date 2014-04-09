@@ -57,14 +57,13 @@
 "MapService0" = "谷歌地图";
 "MapService1" = "苹果地图及维基世界地图";
 
-"VoiceAssistantLevel0" = "Easy";
-"VoiceAssistantLevel1" = "Medium";
-"VoiceAssistantLevel2" = "Hard";
+"VoiceAssistantLevel0" = "Say all";
+"VoiceAssistantLevel1" = "Medium turns and steeper";
+"VoiceAssistantLevel2" = "Only hard and steeper";
 
 //-------------------------------
 "propertyTitleSettingsPropTypeCurrentUserName"      = "我的信息";
 "propertyTitleSettingsPropTypeSpeedUnits"           = "单位";
-"propertyTitleSettingsPropTypeHUDWAYGlassDeviceEnabled" = "iMercuryHUD";
 "propertyTitleSettingsPropTypeCountdown"            = "倒计时";
 "propertyTitleSettingsPropTypeAutoLock"             = "自动锁屏";
 "propertyTitleSettingsPropTypeMapService"           = "地图和方位";

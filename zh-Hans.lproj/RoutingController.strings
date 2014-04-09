@@ -1,6 +1,4 @@
-﻿"mode 0 title" = "";
-"mode 1 title" = "设定路线";
-"mode 2 title" = "其他路线";
+﻿"RoutingController Page_iPhone" = "设定路线";
 
 "from placeholder" = "从这里出发";
 "to placeholder" = "到这里去";

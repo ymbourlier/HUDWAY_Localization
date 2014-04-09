@@ -57,14 +57,13 @@
 "MapService0" = "Google";
 "MapService1" = "Apple + Open Street Map";
 
-"VoiceAssistantLevel0" = "Простая";
-"VoiceAssistantLevel1" = "Средняя";
-"VoiceAssistantLevel2" = "Высокая";
+"VoiceAssistantLevel0" = "Говорить все";
+"VoiceAssistantLevel1" = "Средние повороты и круче";
+"VoiceAssistantLevel2" = "Только трудные и круче";
 
 //-------------------------------
 "propertyTitleSettingsPropTypeCurrentUserName"      = "Мой профиль";
 "propertyTitleSettingsPropTypeSpeedUnits"           = "Ед. измерения";
-"propertyTitleSettingsPropTypeHUDWAYGlassDeviceEnabled" = "iMercuryHUD";
 "propertyTitleSettingsPropTypeCountdown"            = "Обратный отсчёт";
 "propertyTitleSettingsPropTypeAutoLock"             = "Автоблокировка";
 "propertyTitleSettingsPropTypeMapService"           = "Карты и маршрутизация";

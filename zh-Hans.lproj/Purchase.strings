@@ -2,23 +2,33 @@
 "loading product price title" = "正在加载价格...";
 
 "need purchase alert title" = "此操作无效";
-"need purchase alert message for product com.RITLLC.HudWay.NonConsumable.ProMode" = "购买 \"专业版HUDWAY\"，此项操作是必须的";
+"need purchase alert message for product com.RITLLC.HudWay.NonConsumable.DrawRouteFeatures" = "购买 \"专业版HUDWAY\"，此项操作是必须的";
+"need purchase alert message for product com.RITLLC.HudWay.NonConsumable.VoiceAssistant" = "For this action is necessary to buy \"Voice assistant\" in additional upgrade";
 
-"promotion alert title" = "专业版";
-"promotion alert message" = "您还没有购买专业版HUDWAY。专业功能试用将会在5分钟后结束。";
+"promotion alert title for product com.RITLLC.HudWay.NonConsumable.DrawRouteFeatures" = "专业版";
+"promotion alert message for product com.RITLLC.HudWay.NonConsumable.DrawRouteFeatures" = "您还没有购买专业版HUDWAY。专业功能试用将会在5分钟后结束。";
+
+"promotion alert title for product com.RITLLC.HudWay.NonConsumable.VoiceAssistant" = "Voice assistant";
+"promotion alert message for product com.RITLLC.HudWay.NonConsumable.VoiceAssistant" = "Voice assistant are not purchased. Demonstration mode will enable it for 5 minutes only";
 
 "cancel button" = "取消";
 "store button" = "购买";
 "accept promotion button" = "是";
 
 "purchase com.RITLLC.HudWay.NonConsumable.AdFree title" = "无广告";
+"purchase com.RITLLC.HudWay.NonConsumable.VoiceAssistant title" = "Voice assistant (co-driver)";
+"purchase com.RITLLC.HudWay.NonConsumable.DrawRouteFeatures title" = "Plus +";
 "purchase com.RITLLC.HudWay.NonConsumable.ProMode title" = "专业版";
 
 "purchase com.RITLLC.HudWay.NonConsumable.AdFree description" = "享受无广告的HUDWAY";
+"purchase com.RITLLC.HudWay.NonConsumable.VoiceAssistant description" = "Hudway Voice Assistant alerts you on every dangerous curve on the road ahead, creating an audio-image to hear for the next one-two turns";
+"purchase com.RITLLC.HudWay.NonConsumable.DrawRouteFeatures description" = "Want different road style? With this upgrade you will be able to customize the view of the road and its turns. Every new style will be available here";
 "purchase com.RITLLC.HudWay.NonConsumable.ProMode description" = "想要更多功能吗？ 购买 \"专业版\" 你将会获得定制服务，HUDWAY会提醒您可能导致危险的道路状况。";
 
 "purchase com.RITLLC.HudWay.NonConsumable.AdFree buy button" = "关闭所有广告 %@";
-"purchase com.RITLLC.HudWay.NonConsumable.ProMode buy button" = "升级到专业版 %@";
+"purchase com.RITLLC.HudWay.NonConsumable.VoiceAssistant buy button" = "Buy for %@";
+"purchase com.RITLLC.HudWay.NonConsumable.DrawRouteFeatures buy button" = "Buy for %@";
+"purchase com.RITLLC.HudWay.NonConsumable.ProMode buy button" = "Buy for %@";
 
 "alert purchase error #100 message" = "App Store暂不可用，请检查关于App Store的设置";
 "alert purchase error #105 message" = "无法连接到App Store";

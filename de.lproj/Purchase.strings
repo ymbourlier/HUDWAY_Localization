@@ -2,23 +2,33 @@
 "loading product price title" = "Preis wird geladen...";
 
 "need purchase alert title" = "Auswahl nicht verfügbar";
-"need purchase alert message for product com.RITLLC.HudWay.NonConsumable.ProMode" = "Für diese Funktion müssen Sie die PRO Version \"Pro Modus\" zusätzlich erwerben";
+"need purchase alert message for product com.RITLLC.HudWay.NonConsumable.DrawRouteFeatures" = "Für diese Funktion müssen Sie die PRO Version \"Pro Modus\" zusätzlich erwerben";
+"need purchase alert message for product com.RITLLC.HudWay.NonConsumable.VoiceAssistant" = "For this action is necessary to buy \"Voice assistant\" in additional upgrade";
 
-"promotion alert title" = "PRO Modus";
-"promotion alert message" = "PRO Modus Funktionen wurden bisher nicht erworben. Diese werden zur Demonstration für 5 Minute aktiviert";
+"promotion alert title for product com.RITLLC.HudWay.NonConsumable.DrawRouteFeatures" = "PRO Modus";
+"promotion alert message for product com.RITLLC.HudWay.NonConsumable.DrawRouteFeatures" = "PRO Modus Funktionen wurden bisher nicht erworben. Diese werden zur Demonstration für 5 Minute aktiviert";
+
+"promotion alert title for product com.RITLLC.HudWay.NonConsumable.VoiceAssistant" = "Voice assistant";
+"promotion alert message for product com.RITLLC.HudWay.NonConsumable.VoiceAssistant" = "Voice assistant are not purchased. Demonstration mode will enable it for 5 minutes only";
 
 "cancel button" = "Abbrechen";
 "store button" = "Kaufen";
 "accept promotion button" = "OK";
 
 "purchase com.RITLLC.HudWay.NonConsumable.AdFree title" = "Ad Free";
+"purchase com.RITLLC.HudWay.NonConsumable.VoiceAssistant title" = "Voice assistant (co-driver)";
+"purchase com.RITLLC.HudWay.NonConsumable.DrawRouteFeatures title" = "Plus +";
 "purchase com.RITLLC.HudWay.NonConsumable.ProMode title" = "Pro Modus";
 
 "purchase com.RITLLC.HudWay.NonConsumable.AdFree description" = "HUDWAY ohne Werbeeinblendungen";
+"purchase com.RITLLC.HudWay.NonConsumable.VoiceAssistant description" = "Hudway Voice Assistant alerts you on every dangerous curve on the road ahead, creating an audio-image to hear for the next one-two turns";
+"purchase com.RITLLC.HudWay.NonConsumable.DrawRouteFeatures description" = "Want different road style? With this upgrade you will be able to customize the view of the road and its turns. Every new style will be available here";
 "purchase com.RITLLC.HudWay.NonConsumable.ProMode description" = "Mehr Funktionen? Im \"Pro Modus\" können Sie die Strassen- und Streckenansicht personalisieren, zusätzlich warnt das Programm vor gefährlichen Kurven";
 
 "purchase com.RITLLC.HudWay.NonConsumable.AdFree buy button" = "Werbung ausblenden %@";
-"purchase com.RITLLC.HudWay.NonConsumable.ProMode buy button" = "Upgrade auf Pro %@";
+"purchase com.RITLLC.HudWay.NonConsumable.VoiceAssistant buy button" = "Buy for %@";
+"purchase com.RITLLC.HudWay.NonConsumable.DrawRouteFeatures buy button" = "Buy for %@";
+"purchase com.RITLLC.HudWay.NonConsumable.ProMode buy button" = "Buy for %@";
 
 "alert purchase error #100 message" = "Keine Verbindung zum App Store, prüfen Sie unter Einstellungen > Allgemein > Einschränkungen dass In-App-Käufe aktiviert ist";
 "alert purchase error #105 message" = "Keine Verbindung zum App Store";
