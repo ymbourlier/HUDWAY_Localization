@@ -10,21 +10,16 @@ For this, make following instruction:
 To translate the application you should be:
 ---
 
-**Note.** If you don't want translate files locally on your computer, you can translate files on GitHub, use web-based instruments for file editing
+**Edit on GitHub**
+You can translate files on GitHub, use web-based instruments for file editing
+1. Sign up or sign in your github account
+2. Fork the project
+3. Make one or more well commented and clean commits to the repository.(open file, click edit, edit text and create commit with changes)
+4. Perform a pull request in github's web interface.
 
-1. install git-client(SmartGit [http://www.syntevo.com/smartgithg/] or another git client)
-2. download files from repositories
-	SmartGit:
-	- open smart git
-	- select project > Clone
-	- in opened window insert URL to repository [https://github.com/RITLLC/HUDWAY_Localization.git] and press continue
-	- press continue again
-	- select local folder for copy repository files on your computer and press continue
-	- set project name(any name title) and press finish
-
-3. open folder with repository files
-4. open or create new localization directory
-	for example: 
+**About files**
+1. project can contains localizable directories:
+for example: 
 		for English localization - en.lproj
 		for Russian localization - ru.lproj
 	List of localization folders:
@@ -151,18 +146,9 @@ To translate the application you should be:
  ```
  	If you create new .lproj directory, copy all files from en.lproj directory to your new localization directory
 
-5. Open .lproj directory. Directory contains localization files for application pages, alerts, processes and other
-6. Open any file. Files includes string lines with format:
+2. .lproj directoey contains localization files for application pages, alerts, processes and other
+3. Files includes string lines with format:
 	"application string key" = "localization string";
 	translate need only "localization string"
-7. after you translated and saved all files on your localization directory, open git-client and save changes in repository.
-	In SmartGit:
-	- open HUDWAY localization project on git-client
-	- click to button "pull"
-	- if opened configuration window, select "rebase" option ans click "configuration"
-	- click on opened window button "pull"
-	- wait when pull process is ended
-	- click to button "commit"
-	- enter "commit message", when enter your activity with files(for example "update english localization")
-	- click button "Commit & push"
-	- wait when commit process is ended
+4. Folder "info" contained localization information for App Store and Google Play
+
