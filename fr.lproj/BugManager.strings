@@ -1,0 +1,15 @@
+"email watermark text" = "Enter your email adress";
+"report watermark text" = "Message";
+"email wrong format" = "email incorrect format";
+"lock screen message" = "Sending...";
+"add image" = "Add screenshot";
+"send report" = "Send";
+"delete image" = "Delete";
+"footer text" = "To take a screenshot, press simultaneously\n the «Home» and «Shutdown»\n and add it to the gallery";
+"localized title"= "Bug report";
+"error" = "Error sending falled";
+"success" = "Message send.\n Thank you";
+"empty data" = "Message is required";
+"footer text for android" = "To take a screenshot, hold down simultaneously\n the «Volume-» and «Shutdown»\n and add it to the gallery";
+"footer text for android less 4" = "To take screenshot see documentation for your device";
+"error getting logs" = "Error getting logs";

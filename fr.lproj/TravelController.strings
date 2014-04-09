@@ -1,0 +1,32 @@
+"finish stage win alert title"          = "Congratulations!";
+"finish stage not win alert title"      = "Sorry";
+"finish stage win message format"       = "%@ this is your best route result";
+"finish stage not win message format"   = "Your time is worse than %@";
+
+"finish geo track alert message"        = "You have arrived at the destination";
+
+"start text"                            = "START!";
+
+"brightnes label"                       = "Brightness";
+"perspective label"                     = "Camera in advance %@";
+
+"cancel button"                         = "Cancel";
+"skip button"                           = "Skip";
+"recalculation button"                  = "Recalculate";
+"close button"                          = "Close";
+"hud page button"                       = "HUD";
+"map page button"                       = "Map";
+"hud button"                            = "Head-Up Display Mode";
+
+"insert into route description"         = "Enter on route to start";
+"out of route description"              = "You left from\r\nthe route!";
+"recalculate route description"         = "Route\r\nrecalculation";
+"bad internet connection description"   = "Bad internet connection";
+
+"close alert title"                     = "Select before exiting";
+"cancel button"                         = "Cancel";
+"save button"                           = "Save";
+"don't save button"                     = "Don't save";
+
+"lock alert deleting stage result"      = "Delete data...";
+"lock alert deleted stage result"       = "Done!";

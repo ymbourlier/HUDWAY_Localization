@@ -1,0 +1,142 @@
+"SurfaceType0" = "Gravel";
+"SurfaceType1" = "Tarmac";
+"SurfaceType2" = "Ice";
+"SurfaceType3" = "Forest";
+"SurfaceType4" = "Water";
+"SurfaceType5" = "Air";
+
+"VehicleType0" = "Car";
+"VehicleType1" = "Motorcycle";
+"VehicleType2" = "Bicycle";
+"VehicleType3" = "Run/Walk";
+"VehicleType4" = "Airplane";
+"VehicleType5" = "Helicopter";
+"VehicleType6" = "Ship";
+
+"SpeedUnit0" = "Kilometers";
+"SpeedUnit1" = "Miles and yards";
+"SpeedUnit2" = "Miles and feet";
+
+"HUDWAYGlassDevice0" = "Disabled";
+"HUDWAYGlassDevice1" = "Enabled";
+
+"Countdown0" = "3 seconds";
+"Countdown1" = "5 seconds";
+"Countdown2" = "10 seconds";
+"Countdown3" = "15 seconds";
+"Countdown4" = "30 seconds";
+"Countdown5" = "1 minute";
+"Countdown6" = "2 minutes";
+"Countdown7" = "3 minutes";
+"Countdown8" = "4 minutes";
+"Countdown9" = "5 minutes";
+
+"CountdownShort0" = "3 sec";
+"CountdownShort1" = "5 sec";
+"CountdownShort2" = "10 sec";
+"CountdownShort3" = "15 sec";
+"CountdownShort4" = "30 sec";
+"CountdownShort5" = "1 min";
+"CountdownShort6" = "2 min";
+"CountdownShort7" = "3 min";
+"CountdownShort8" = "4 min";
+"CountdownShort9" = "5 min";
+
+"PublishType0" = "No";
+"PublishType1" = "Yes";
+
+"UserLoginType0"        = "Unknown";
+"UserLoginTypeFacebook" = "Facebook";
+"UserLoginTypeTwitter"  = "Twitter";
+"UserLoginTypeGidme"    = "HudWayApp.com";
+
+"AutoLock0" = "System preferences";
+"AutoLock1" = "Turn off while driving";
+"AutoLock2" = "Turn off";
+
+"MapService0" = "Google";
+"MapService1" = "Apple + Open Street Map";
+
+"VoiceAssistantLevel0" = "Say all";
+"VoiceAssistantLevel1" = "Medium turns and steeper";
+"VoiceAssistantLevel2" = "Only hard and steeper";
+
+//-------------------------------
+"propertyTitleSettingsPropTypeCurrentUserName"      = "My Profile";
+"propertyTitleSettingsPropTypeSpeedUnits"           = "Units";
+"propertyTitleSettingsPropTypeCountdown"            = "Countdown";
+"propertyTitleSettingsPropTypeAutoLock"             = "Auto-Lock";
+"propertyTitleSettingsPropTypeMapService"           = "Maps and direction";
+"propertyTitleSettingsPropTypeVoiceAssistantLevel"  = "Level of detail";
+
+"propertyPlaceholderSettingsPropTypeCurrentUserName"= "";
+
+//-------------------------------
+"propertyTitleUserPropTypeName"                 = "User";
+"propertyTitleUserPropTypeCreatedStages"        = "Created Routes";
+"propertyTitleUserPropTypeCreatedStagesResults" = "Number of results";
+"propertyTitleUserPropTypeUsedLoginType"        = "Login with";
+"propertyTitleUserPropTypeEmail"                = "";
+"propertyTitleUserPropTypePassword"             = "";
+"propertyTitleUserPropTypeConfirmPassword"      = "";
+
+"propertyPlaceholderUserPropTypeName"           = "Tap to give a name";
+"propertyPlaceholderUserPropTypeEmail"          = "E-mail";
+"propertyPlaceholderUserPropTypePassword"       = "Password";
+
+"propertyKetboardPlaceholderUserPropTypeName"       = "Enter name";
+"propertyKetboardPlaceholderUserPropTypeEmail"      = "Enter e-mail";
+"propertyKetboardPlaceholderUserPropTypePassword"   = "Enter password";
+
+//-------------------------------
+"propertyTitleSpecialSectorPropTypeName"            = "Title";
+"propertyTitleSpecialSectorPropTypeDescription"     = "Description";
+"propertyTitleSpecialSectorPropTypeDistance"        = "Distance";
+"propertyTitleSpecialSectorPropTypeTime"            = "Time";
+"propertyTitleSpecialSectorPropTypeStartDateTime"   = "Start time";
+"propertyTitleSpecialSectorPropTypeSurfaceType"     = "Surface";
+"propertyTitleSpecialSectorPropTypeStartLat"        = "";
+"propertyTitleSpecialSectorPropTypeStartLon"        = "";
+"propertyTitleSpecialSectorPropTypeTracksCount"     = "";
+"propertyTitleSpecialSectorPropTypeUserAuthorName"  = "Author";
+"propertyTitleSpecialSectorPropTypeUserWinnerName"  = "Winner";
+
+"propertyPlaceholderSpecialSectorPropTypeName"          = "Tap to give a title";
+"propertyPlaceholderSpecialSectorPropTypeDescription"   = "Tap to enter description";
+"propertyPlaceholderSpecialSectorPropTypeDistance"      = "";
+"propertyPlaceholderSpecialSectorPropTypeTime"          = "";
+"propertyPlaceholderSpecialSectorPropTypeStartDateTime" = "";
+"propertyPlaceholderSpecialSectorPropTypeSurfaceType"   = "";
+"propertyPlaceholderSpecialSectorPropTypeStartLat"      = "";
+"propertyPlaceholderSpecialSectorPropTypeStartLon"      = "";
+"propertyPlaceholderSpecialSectorPropTypeTracksCount"   = "";
+
+"propertyKetboardPlaceholderSpecialSectorPropTypeName"          = "Enter name";
+"propertyKetboardPlaceholderSpecialSectorPropTypeDescription"   = "Enter description";
+"propertyKetboardPlaceholderSpecialSectorPropTypeDistance"      = "";
+"propertyKetboardPlaceholderSpecialSectorPropTypeTime"          = "";
+"propertyKetboardPlaceholderSpecialSectorPropTypeStartDateTime" = "";
+"propertyKetboardPlaceholderSpecialSectorPropTypeSurfaceType"   = "";
+"propertyKetboardPlaceholderSpecialSectorPropTypeStartLat"      = "";
+"propertyKetboardPlaceholderSpecialSectorPropTypeStartLon"      = "";
+"propertyKetboardPlaceholderSpecialSectorPropTypeTracksCount"   = "";
+
+//-------------------------------
+"propertyTitleTrackPropTypeName"                    = "";
+"propertyTitleTrackPropTypeDate"                    = "Date";
+"propertyTitleTrackPropTypeTime"                    = "Time";
+"propertyTitleTrackPropTypeDistance"                = "Distance";
+"propertyTitleTrackPropTypeMaxSpeed"                = "Top speed";
+"propertyTitleTrackPropTypeAverageSpeed"            = "Average speed";
+"propertyTitleTrackPropTypeVehicleType"             = "Vehicle";
+"propertyTitleTrackPropTypeDescription"             = "Description";
+"propertyTitleTrackPropTypeUserAuthorName"          = "User";
+"propertyTitleTrackPropTypePublishStatus"           = "Published";
+"propertyTitleTrackPropTypeAccelerationTo100KmH"    = "0-100 km/h";
+"propertyTitleTrackPropTypeAccelerationTo60MPH"     = "0-60 mph";
+
+"propertyPlaceholderTrackPropTypeName"          = "Tap to give a name";
+"propertyPlaceholderTrackPropTypeDescription"   = "Description";
+
+"propertyKetboardPlaceholderTrackPropTypeName"          = "Enter name";
+"propertyKetboardPlaceholderTrackPropTypeDescription"   = "Enter description";

@@ -1,0 +1,11 @@
+/* 
+  StageResultsController.strings
+  CityRacer
+
+  Created by Kirill Frolov on 30.01.13.
+
+*/
+
+"StageResultsController Page_iPhone"  = "My Route Results";
+
+"back button" = "Back";

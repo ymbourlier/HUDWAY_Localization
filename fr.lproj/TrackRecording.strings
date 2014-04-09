@@ -1,0 +1,16 @@
+"location services access dialog message" = "The application use GPS to record youre routes";
+
+"cancel button" = "Close";
+"ok button" = "Done";
+
+"user disabled location service alert title" = "Can't record the Route";
+"user disabled location service for application alert message" = "Please provide an access to the Location services for this application. Go to Location services Settings, find 'Check My Race' and switch it 'On'";
+"user disabled location service for device alert message" = "The Location services is switched off. Go to Location services Settings and switch it 'On'.";
+"user disabled location service for device alert message android" = "The Location services is switched off. Go to Location services Settings and switch it 'On' for all services.";
+
+"no free system space alert title" = "Unable to record the route";
+"no free system space alert message" = "To record the route is not enough memory. Storage location can be controlled in the settings";
+
+"can't write empty track alert" = "No distance, route results can't be saved";
+
+"settings button android" = "Settings";

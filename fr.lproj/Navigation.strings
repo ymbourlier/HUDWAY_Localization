@@ -1,0 +1,19 @@
+"Miles short" = "mi";
+"Yards short" = "yd";
+"Foots short" = "ft";
+"Kilometers short" = "km";
+"Meters short" = "m";
+"Miles in hour short" = "mph";
+"Kilometers in hour short" = "km/h";
+
+"in start place label text"         = "You are at the start point";
+"to start label format"             = "%@ to start point";
+
+"current location title"            = "Current location";
+
+"default stage name format"         = "Route %d";
+
+"start point title" = "Start";
+"finish point title" = "End";
+
+"unknown distance" = "--";

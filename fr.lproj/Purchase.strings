@@ -1,0 +1,43 @@
+"purchased title" = "Purchased!";
+"loading product price title" = "Loading price...";
+
+"need purchase alert title" = "Action is not available";
+"need purchase alert message for product com.RITLLC.HudWay.NonConsumable.DrawRouteFeatures" = "For this action is necessary to buy \"Pro Mode\" in additional upgrade";
+"need purchase alert message for product com.RITLLC.HudWay.NonConsumable.VoiceAssistant" = "For this action is necessary to buy \"Voice assistant\" in additional upgrade";
+
+"promotion alert title for product com.RITLLC.HudWay.NonConsumable.DrawRouteFeatures" = "PRO mode";
+"promotion alert message for product com.RITLLC.HudWay.NonConsumable.DrawRouteFeatures" = "PRO mode functions are not purchased. Demonstration mode will enable it for 5 minutes only";
+
+"promotion alert title for product com.RITLLC.HudWay.NonConsumable.VoiceAssistant" = "Voice assistant";
+"promotion alert message for product com.RITLLC.HudWay.NonConsumable.VoiceAssistant" = "Voice assistant are not purchased. Demonstration mode will enable it for 5 minutes only";
+
+"cancel button" = "Cancel";
+"store button" = "Buy";
+"accept promotion button" = "OK";
+
+"purchase com.RITLLC.HudWay.NonConsumable.AdFree title" = "Ad Free";
+"purchase com.RITLLC.HudWay.NonConsumable.VoiceAssistant title" = "Voice assistant (co-driver)";
+"purchase com.RITLLC.HudWay.NonConsumable.DrawRouteFeatures title" = "Plus +";
+"purchase com.RITLLC.HudWay.NonConsumable.ProMode title" = "PRO bundle (all-in-one)";
+
+"purchase com.RITLLC.HudWay.NonConsumable.AdFree description" = "Enjoy HUDWAY without Ads and get an extra place on the tracking screen";
+"purchase com.RITLLC.HudWay.NonConsumable.VoiceAssistant description" = "Hudway Voice Assistant alerts you on every dangerous curve on the road ahead, creating an audio-image to hear for the next one-two turns";
+"purchase com.RITLLC.HudWay.NonConsumable.DrawRouteFeatures description" = "Want different road style? With this upgrade you will be able to customize the view of the road and its turns. Every new style will be available here";
+"purchase com.RITLLC.HudWay.NonConsumable.ProMode description" = "Get all upgrades as one bundle by special price. Every new will be available to PRO users free-of-charge";
+
+"purchase com.RITLLC.HudWay.NonConsumable.AdFree buy button" = "Turn off ads for %@";
+"purchase com.RITLLC.HudWay.NonConsumable.VoiceAssistant buy button" = "Buy for %@";
+"purchase com.RITLLC.HudWay.NonConsumable.DrawRouteFeatures buy button" = "Buy for %@";
+"purchase com.RITLLC.HudWay.NonConsumable.ProMode buy button" = "Buy for %@";
+
+"alert purchase error #100 message" = "Can't connect to App Store, check in Settings > General > Restrictions that the In-App Purchases is enabled";
+"alert purchase error #105 message" = "Can't connect to App Store";
+
+"purchase sku_ads_disabled title" = "Ad Free";
+"purchase sku_pro_mode_enabled title" = "PRO Mode";
+
+"purchase sku_ads_disabled description" = "Enjoy HUDWAY without Ads and get an extra place on the tracking screen";
+"purchase sku_pro_mode_enabled description" = "Customized view of the road, dangerous turns alerts and more...";
+
+"purchase sku_ads_disabled buy button" = "Turn off Ads for %@";
+"purchase sku_pro_mode_enabled buy button" = "Go PRO for %@";

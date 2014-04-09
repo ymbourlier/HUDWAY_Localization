@@ -1,0 +1,16 @@
+"mapTypeStandard"   = "Standard";
+"mapTypeHybrid"     = "Hybrid";
+"mapTypeSatellite"  = "Satellite";
+
+"current position button title" = "Current";
+"start position button title"   = "Begin of route";
+"finish position button title"   = "End of route";
+
+"map type label" = "Map type";
+"map position label" = "Map position";
+
+"map settings title" = "Map settings";
+
+"routing options title" = "Make a route";
+"set start position button" = "Directions from Here";
+"set finish position button" = "Directions to Here";

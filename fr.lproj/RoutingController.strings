@@ -1,0 +1,33 @@
+"RoutingController Page_iPhone" = "Build a route";
+
+"from placeholder" = "From";
+"to placeholder" = "To";
+
+"create route button" = "Build a route";
+"start ride to route button" = "Start";
+"cancel button" = "Cancel";
+
+"set start position button" = "Directions from Here";
+"set finish position button" = "Directions to Here";
+
+"lock alert get current location" = "Get current location...";
+"lock alert get geo tracks" = "Building a route...";
+"lock alert preparation to start" = "Preparing the route...";
+
+"lock alert get extended geo track" = "Loading a route...";
+"lock alert get extended geo track progress format" = "Progress — %d%%";
+
+"lock alert save geo track" = "Saving a route...";
+"lock alert save geo track success" = "Saved in routes";
+
+"empty stages description" = "There are currently no recorded routes\n\nYou can create new route by tapping the button below";
+"empty stages button" = "Record a route!";
+
+"find address name title" = "      searching...";
+
+"map action sheet title" = "";
+
+"start title" = "Start:";
+"finish title" = "End:";
+
+"unknow address title" = "Unknow address";

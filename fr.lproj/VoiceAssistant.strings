@@ -1,0 +1,30 @@
+"straight direction" = "straight";
+"left direction" = "left";
+"rigth direction" = "right";
+
+"easy difficult" = "easy";
+"medium difficult" = "middle";
+"hard difficult" = "hard";
+"perpendicular difficult" = "90 degree";
+"sharp difficult" = "sharp";
+"uturn difficult" = "u-turn";
+
+"short duration" = "";
+"long duration" = "long";
+"very long duration" = "very long";
+
+"kilometer" = "kilometer";
+"2-4 kilometers" = "kilometers";
+"kilometers" = "kilometers";
+"meters" = "meters";
+"mile" = "mile";
+"2-4 miles" = "miles";
+"miles" = "miles";
+"yards" = "yards";
+"foots" = "foots";
+"connection between units" = "and";
+
+"connection between maneuvers" = " and then ";
+"to finish description" = "to finish";
+"in finish" = "you have arrived at the destination";
+"big maneuvers bundle description" = " and then, attention, bunch of complicated turns";

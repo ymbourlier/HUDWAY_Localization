@@ -1,0 +1,4 @@
+"error #0 message" = "Can't connect to the server. Please try again later";
+"error #1 message" = "Error in Geo-server, please retry later";
+"error #3 message" = "Create a route is not possible, you did not specify starting or finishing place";
+"error #4 message" = "Not possible to create a route to the selected start and finish";

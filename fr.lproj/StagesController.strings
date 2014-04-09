@@ -1,0 +1,13 @@
+"StagesController Page_iPhone"  = "Routes";
+
+"quick start button title"      = "Record route";
+
+"lock alert deleting stage"     = "Deleting...";
+
+"empty stages description"      = "This is the place\nwhere your routes\nwill be shown\n\n\nPress \"Record route\"\nto create new route";
+
+"loading"    					= "Loading...";
+
+"delete button"    				= "Delete";
+
+"menu title"    				= "Select an action";

@@ -1,0 +1,38 @@
+/* 
+  Stage2Controller.strings
+  CityRacer
+
+  Created by Kirill Frolov on 30.01.13.
+
+*/
+
+"StageController Page_iPhone"       = "Route";
+
+"not in start place alert text"                 = "You are not on a start position";
+"not in start place for countdown alert text"   = "To start with countdown, you must be at the starting point";
+
+"ok button"                         = "Ok";
+"start button"                      = "Start route";
+"cancel button"                     = "Cancel";
+"delete button"                     = "Delete route";
+"download button"                   = "Download";
+"back button"                       = "Back";
+
+"map block label"                   = "The Map is not available... \n\n No results for this route. Push \"Start\" to create a route.";
+"map load label"                    = "Map loading...";
+
+"alert delete title"                = "Delete route?";
+"alert delete message"              = "";
+
+"lock alert deleting stage result"  = "Deleting...";
+"lock alert deleted stage result"   = "Done!";
+
+"lock alert start download"         = "Loading...";
+"lock alert start save"             = "Saving...";
+"lock alert success download"       = "Done";
+
+"alert not download stage title"    = "Download route?";
+"alert not download stage message"  = "This route saved in the online storage. Before to start it, it must be downloaded";
+
+"no free system space alert title"   = "Unable to download the route";
+"no free system space alert message" = "To download the route is not enough memory. Storage location can be controlled in the settings";

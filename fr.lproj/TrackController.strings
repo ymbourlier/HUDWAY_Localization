@@ -1,0 +1,25 @@
+"back button"                               = "Back";
+
+"share label text"                          = "";
+
+"cancel button"                             = "Cancel";
+"ok button"                                 = "OK";
+"publish to remote service button"          = "Send to hudwayapp.com";
+"republish to remote service button"        = "Resend to hudwayapp.com";
+"send to email button"                      = "Share via e-mail";
+"open in browser button"                    = "Open in Safari";
+"open in browser button android"            = "Open in Browser";
+"delete button title"                       = "Delete";
+
+"lock alert publish start"                  = "Publishing route results...";
+"lock alert send to facebook start"         = "Sharing to Facebook...";
+"lock alert send to twitter start"          = "Sharing to Twitter...";
+"lock alert publish success"                = "Success!";
+"lock alert deleting stage result"          = "Deleting...";
+"lock alert deleted stage result"           = "Done!";
+"lock alert saving track"                   = "Saving...";
+
+"alert delete title"                        = "Delete route results?";
+"alert delete message"                      = "There will delete all travel data on the route";
+
+"share with friends title"                  = "Share";

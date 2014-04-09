@@ -1,0 +1,19 @@
+"top label text"                = "Sign Up to HUDWAY profile";
+"registration label"            = "Registration";
+"recovery password label"       = "Forgot password?";
+
+"login remote service button"   = "Sign Up";
+"login facebook button title"   = "Sign Up with Facebook";
+"login twitter button title"    = "Sign Up with Twitter";
+"dont login button"             = "Skip";
+
+"email placeholder"             = "E-mail";
+"password placeholder"          = "Password";
+
+"lock alert enter in remote service" = "Enter...";
+"lock alert enter in facebook"  = "Enter Facebook...";
+"lock alert enter in twitter"   = "Enter Twitter...";
+"lock alert success login"      = "Login successfull!";
+
+"hudway registration url"       = "http://hudwayapp.com/en/user/registration";
+"hudway recovery password url"  = "http://hudwayapp.com/en/user/recoveryPassword";

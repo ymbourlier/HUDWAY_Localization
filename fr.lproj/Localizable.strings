@@ -1,0 +1,28 @@
+"track table cell title format" = "%@ in %@";
+
+"back button" = "Back";
+"cancel button" = "Cancel";
+"no button" = "No";
+"yes button" = "Yes";
+
+"my stage results title format" = "My results: %d";
+"my stage results description format" = "time %@ / avg. speed %@";
+
+"leaderboard wait title" = "Please wait...";
+"leaderboard wait description" = "get data";
+
+"leaderboard title format" = "Best result %@";
+"leaderboard description format" = "for %@ of %d results";
+
+"leaderboard not available title" = "Leader board is not available";
+"leaderboard not available description" = "can't get data";
+
+"alert remote service error message" = "Can't get data. Error with Internet connection";
+"alert exit message android" = "Do you want to exit?";
+
+"cancel alert title" = "Cancel?";
+
+"loading progress label" = "Loading...";
+
+"ok button" = "OK";
+

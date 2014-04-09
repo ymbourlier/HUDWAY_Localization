@@ -1,0 +1,25 @@
+"title0" = "Безопасно";
+"title1" = "Быстро";
+"title2" = "Отлично";
+"title3" = "С ветерком";
+"title4" = "Как в боевом самолёте";
+"title5" = "Безопасно";
+"title6" = "Спокойно";
+"title7" = "Дерзко";
+"title8" = "Предсказуемо";
+"title9" = "С проекцией на стекло машины";
+"title10" = "Предсказуемо";
+"title11" = "Великолепно";
+
+"mainMessageFormat" = "%@ проехал %@ с #HUDWAY";
+
+"error #321 message" = "Not currently possible to log in using VK";
+"error #322 message" = "Not currently possible to log in using VK";
+"error #323 message" = "Not currently possible to enter, no Internet connection";
+"error #325 message" = "Unable to publish action to Vk.com. Try again later";
+
+"action VKSocialActionPostStageResult description" = "Sharing to Vk.com...";
+
+"Cancel button" = "Cancel";
+"Ok button" = "Done";
+"Captcha message title" = "Insert captcha...\n\n\n\n\n";
