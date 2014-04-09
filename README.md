@@ -10,19 +10,22 @@ For this, make following instruction:
 To translate the application you should be:
 ---
 
-**Edit on GitHub**
-You can translate files on GitHub, use web-based instruments for file editing
-1. Sign up or sign in your github account
-2. Fork the project
-3. Make one or more well commented and clean commits to the repository.(open file, click edit, edit text and create commit with changes)
-4. Perform a pull request in github's web interface.
+**Edit on GitHub** 
+
+You can translate files on GitHub, use web-based instruments for file editing 
+ 1. Sign up or sign in your github account
+ 2. Fork the project
+ 3. Make one or more well commented and clean commits to the repository.(open file, click edit, edit text and create commit with changes)
+ 4. Perform a pull request in github's web interface.
 
 **About files**
-1. project can contains localizable directories:
-for example: 
-		for English localization - en.lproj
-		for Russian localization - ru.lproj
-	List of localization folders:
+
+ 1. project can contains localizable directories:
+
+ for example:<br>
+   for English localization - en.lproj<br>
+   for Russian localization - ru.lproj<br>
+   List of localization folders:<br>
 ```
 		0. English         en
 		1. French          fr
@@ -146,9 +149,9 @@ for example:
  ```
  	If you create new .lproj directory, copy all files from en.lproj directory to your new localization directory
 
-2. .lproj directoey contains localization files for application pages, alerts, processes and other
-3. Files includes string lines with format:
-	"application string key" = "localization string";
+ 2. .lproj directoey contains localization files for application pages, alerts, processes and other
+ 3. Files includes string lines with format:<br>
+	"application string key" = "localization string";<br>
 	translate need only "localization string"
-4. Folder "info" contained localization information for App Store and Google Play
+ 4. Folder "info" contained localization information for App Store and Google Play
 
