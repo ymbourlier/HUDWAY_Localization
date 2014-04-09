@@ -1,0 +1,17 @@
+- new: German localization (special danke to Dietmar Barro)
+- new: Chinese localization (special 谢谢 to Chen Haobin)
+- new: switching on/off altitude visualization of the route
+- new: first-launch guides and working tips
+- new: bug report form to contact Hudway team
+- new: cancel button on long thread processes
+- new: HUD screen remains black after finish 
+- new: countdown button to start track 
+- update: HUD option panel redesign
+- update: route recalculating in HUD
+- update: safe recovery after app crash
+- update: no more ads in HUD mode
+- bugfix: long routes sharing now works fine
+- bugfix: long routes now might be downloaded
+- bugfix: background music stop after app launch bug now fixed
+- bugfix: route on the map while driving now fully visible
+- bugfix: more and more bug-fixing and app performance improvement 

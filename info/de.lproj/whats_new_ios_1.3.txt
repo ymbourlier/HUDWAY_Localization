@@ -1,0 +1,17 @@
+- Neu: Deutsche Oberfläche (Vielen Dank an Dietmar Barro)
+- Neu: Chinesische Oberfläche (Vielen 谢谢 an Chen Haobin)
+- Neu: Höhenanzeige kann aktiviert/deaktiviert werden
+- Neu: Hilfen und Tipps beim ersten Start
+- Neu: Möglichkeit der Fehlermeldungban an das Hudway Team
+- Neu: "Abbrechen" Button bei lang andauernden Prozessen
+- Neu: HUD Bildschirm bleibt bei Ziellerreichung schwarz
+- Neu: Countdown Button beim Starten
+- Update: HUD Einstellungen Fenster neu gestaltet
+- Update: Routenneuberechnung im HUD
+- Update: Sichere Wiederherstellung nach App-Absturz
+- Update: Keine Werbung im HUD Modus
+- Bugfix: Teilen langer Routen funktioniert korrekt
+- Bugfix: Lange Routen können nun heruntergeladen werden
+- Bugfix: Angehaltene Hintergrundmusik nach App-Start behoben
+- Bugfix: Komplette Route auf der Karte auch beim Fahren sichtbar
+- Bugfix: Verschiedene Fehlerbehebungen und verbesserte Leitung 

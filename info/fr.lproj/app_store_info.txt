@@ -1,0 +1,38 @@
+Application title on AppStore:
+HUDWAY road windshield projection Head-Up Display HUD for drivers
+
+Application description on AppStore:
+HUDWAY is a free augmented reality app that helps drivers follow directions in fog, snow, rain and at night via windshield projections.
+
+«HUDWAY turns your windshield into a jet fighter cockpit»
+— digitaltrends.com
+
+«The Hudway HUD tool will remind you nothing less than a science fiction movie that you watched recently»
+— crazyengineers.com
+
+«Looks awesome, and it's surprising that no one come up with that kind of app before. HUDWAY can do what others can't»
+— lifehacker.ru
+
+«HUDWAY is a rare case of a really elegant and unexpected use of smartphone»
+— Apple community @ vk.com
+
+With the HUDWAY app, drivers can now navigate the road with both hands on the wheel and mind on driving. HUDWAY outlines the road ahead with turn-by-turn directions, and displays it on the windshield using head-up technology — details like speed, distance, and driving instructions are displayed in different light.
+ 
+If you are foreign to concept of head-up technology, it is a display that presents information without requiring users to look away from their usual viewpoints.
+ 
+It works off the back of most popular Map services. You build a route on the map, which the app then preloads so it can be used offline — useful if connection is intermittent or you don't want to use data.
+ 
+The HUDWAY does not require any other equipment other than your smartphone. Just place your phone on the dashboard and the glare from the window will reflect what is displayed on the screen of the phone. This feature would work best in low visibility conditions, such as nighttime, rain, fog, or even heavy snow.
+
+Attention: This app uses a background mode. Continued use of GPS and Audio-services running in the background can dramatically decrease battery life.
+
+Join our Facebook page: 
+https://www.facebook.com/hudwayapp 
+
+Follow us on Twitter: 
+https://twitter.com/hudwayapp 
+
+For more information visit our homepage: 
+http://hudwayapp.com 
+
+Drive Safely!
