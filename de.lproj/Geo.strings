@@ -3,4 +3,4 @@
 "error #3 message" = "Es kann keine Route erstellt werden, Sie haben keine Start- oder Zieladresse eingegeben";
 "error #4 message" = "Für diese Start- und/oder Zielangaben kann keine Route erstellt werden";
 
-"bad geolocation equipment message" = "We found that the device haven't very good geolocation equipment, the app probably will work with lags";
+"bad geolocation equipment message android" = "We found that the device haven't very good geolocation equipment, the app probably will work with lags";

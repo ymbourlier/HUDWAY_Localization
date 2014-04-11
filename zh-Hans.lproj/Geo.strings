@@ -5,4 +5,4 @@
 "unknown start location title" = "找不到该出发地";
 "unknown finish location title" = "找不到该目的地";
 
-"bad geolocation equipment message" = "We found that the device haven't very good geolocation equipment, the app probably will work with lags";
+"bad geolocation equipment message android" = "We found that the device haven't very good geolocation equipment, the app probably will work with lags";

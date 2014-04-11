@@ -3,4 +3,4 @@
 "error #3 message" = "Create a route is not possible, you did not specify starting or finishing place";
 "error #4 message" = "Not possible to create a route to the selected start and finish";
 
-"bad geolocation equipment message" = "We found that the device haven't very good geolocation equipment, the app probably will work with lags";
+"bad geolocation equipment message android" = "We found that the device haven't very good geolocation equipment, the app probably will work with lags";
