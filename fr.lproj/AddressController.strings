@@ -1,15 +1,15 @@
-"page title" = "Make a Route";
+"page title" = "Créer un itinéraire";
 
-"back button" = "Back";
-"cancel button" = "Cancel";
+"back button" = "Retour";
+"cancel button" = "Supprimer";
 
-"search address placeholer" = "Enter address";
+"search address placeholer" = "Entrer l'adresse";
 
-"lock alert get location" = "Get location...";
+"lock alert get location" = "Recherche de votre destination";
 
-"empty addresses description" = "Address not found";
+"empty addresses description" = "Adresse inconnue";
 
-"history addresses title" = "Frequent addresses";
+"history addresses title" = "Adresses fréquentes";
 
-"voice recording description" = "Speak...";
-"voice recognition description" = "Processing...";
+"voice recording description" = "Parlez...";
+"voice recognition description" = "En cours...";
